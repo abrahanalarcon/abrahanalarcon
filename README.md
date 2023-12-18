@@ -4,7 +4,7 @@
 
   
   
- <div><h2 style="font-size: 1rem; color: #00abf0;">Contacts</h2> <a href="https://www.instagram.com/alarconhazim_/" target="_blank">Instagram</a></p><p></div>
+ <div><h2 style="font-size: 1rem; color: #00abf0;">Contacts</h2> -<a href="https://www.instagram.com/alarconhazim_/" target="_blank">Instagram</a></p><p></div>
    
        
    
