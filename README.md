@@ -1,4 +1,5 @@
--<h1 style: "font-weight: 700 color:#00abf0 ;">Who Iam </h1>
+-<h1 style="font-weight: 700; color: #00abf0;">Who I am</h1>
+
 👋 Hi, I’m Moises Abrahan Alarcon Hazin I'm a front-end developer. who start a live as programmer in mechatronic area with C#.But I choose to be web programmer.I really like everything about web development 🌱, I'm also looking to develop myself as backend developer to get full-stack roles. I am a fast learner,.. Reach out to learn more about me!
 - 
   
