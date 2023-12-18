@@ -3,7 +3,7 @@
 👋 Hi, I’m Moises Abrahan Alarcon Hazin I'm a front-end developer. who start a live as programmer in mechatronic area with C#.But I choose to be web programmer.I really like everything about web development 🌱, I'm also looking to develop myself as backend developer to get full-stack roles. I am a fast learner,.. Reach out to learn more about me!
 - 
   
-  <h1 style="font-size: 3.2rem; color: #00abf0;">Who I am</h1>
+  <h2 style="font-size: 1rem; color: #00abf0;">Who I am</h2>
 - <p> <a href="https://www.instagram.com/alarconhazim_/" target="_blank">Instagram</a></p>
    
        
