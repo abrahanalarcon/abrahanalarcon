@@ -27,7 +27,7 @@
     <a href="https://github.com/abrahanalarcon/my_frontendStore" target="_blank">
     <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a>
     </p>
-    <p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+    <p>Este es unos de mis proyectos favorito<strong>con HTML CSS Y JavaScript</strong> cada dia le voy agregando cosas nuevas.</p>
     </div>
                                                                                           
     </td>
@@ -44,7 +44,7 @@
     </a>
     
     </p>
-    <p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+    <p>Este fue unos de mis proyectos  <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador como freelacer  fue unos de los primeros paso que di al empezar aprender programacion weba</p>
     </div>                                                             
     </table>                                                                                 
     </div>
@@ -60,7 +60,7 @@
     <a href="https://github.com/abrahanalarcon/my_blogcafe" target="_blank">
     <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a>
     </p>
-    <p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+    <p>Este proyecto fue con <strong>HTML Y CSS</strong> es totalmente responsiev <strong>aplicando grid y flex</strong> espero que te guste!</p>
     </div>
    
                                                                                           
@@ -69,12 +69,12 @@
     <td width="50%">
     <h3 align="center">Online Courses</h3>
      <div align="center">
-    <a href="https://beamish-selkie-30615b.netlify.app/#" target="_blank"><img src="img/PortadaS.png" width="400" alt="Suits"></a>
+    <a href="https://beamish-selkie-30615b.netlify.app/#" target="_blank"><img src="img/5.png" width="400" alt="Suits"></a>
     <p>
     <a href="https://github.com/abrahanalarcon/Online-Courses-Page" target="_blank">
     <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a>
     </p>
-    <p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+    <p>Este proyecto fue hecho con <strong>JavaScript</strong> aplique lo que fue la funcion de  <strong>Local Storage</strong> espero que te guste!</p>
     </div>
   
                                                                                           
