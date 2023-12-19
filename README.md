@@ -20,6 +20,7 @@ Aquí encontrarás algunos de los proyectos en los que he trabajado:
 Puedes encontrarme en las siguientes plataformas:
 
 - LinkedIn: [Moises Abrahan Alarcon Hazim](https://www.linkedin.com/in/moises-abrahan-alarcon-hazim-6b614a217/)
+- CODEPEN: [@alarconhazim_](https://codepen.io/abrahanalarcon)
 - Instagram: [@alarconhazim_](https://www.instagram.com/alarconhazim_/)
 
 ¡No dudes en contactarme para colaboraciones o simplemente para charlar!
