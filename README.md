@@ -83,8 +83,9 @@
     </div>
     <br>
 
-     <p align="center"> Puedes ver mas proyectos aqui en
-     - CODEPEN: [@alarconhazim_](https://codepen.io/abrahanalarcon)
+     
+    <p align="center">   
+    <a href="https://codepen.io/abrahanalarcon" target="_blank">CODEPEN</a>
     </p>
     
     
