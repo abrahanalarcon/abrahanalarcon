@@ -44,7 +44,7 @@
     </a>
     
     </p>
-    <p>Este fue unos de mis proyectos  <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador como freelacer  fue unos de los primeros paso que di al empezar aprender programacion weba</p>
+    <p>Este fue unos de mis proyectos  <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador como freelacer  fue unos de los primeros paso que dí al empezar aprender programacion web</p>
     </div>                                                             
     </table>                                                                                 
     </div>
