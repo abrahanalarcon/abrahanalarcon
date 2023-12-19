@@ -12,7 +12,7 @@
 
 Aquí encontrarás algunos de los proyectos en los que he trabajado:
 
-1. [Sutis](https://my-frontedstore.netlify.app/) 
+1. [Suits](https://my-frontedstore.netlify.app/) 
 2. [Blog Cafe](https://roaring-youtiao-af4457.netlify.app/) 
 
 ## Contáctame
