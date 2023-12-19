@@ -53,11 +53,11 @@
     <table>
     <tr>
     <td width="50%">
-    <h3 align="center">Curso Android Intermedio</h3>
+    <h3 align="center">Blog Café</h3>
      <div align="center">
-    <a href="https://my-frontedstore.netlify.app/" target="_blank"><img src="img/PortadaS.png" width="400" alt="Suits"></a>
+    <a href="https://roaring-youtiao-af4457.netlify.app/" target="_blank"><img src="img/1.png" width="400" alt="blog cafe"></a>
     <p>
-    <a href="https://github.com/abrahanalarcon/my_frontendStore" target="_blank">
+    <a href="https://github.com/abrahanalarcon/my_blogcafe" target="_blank">
     <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a>
     </p>
     <p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
@@ -67,11 +67,11 @@
     </td>       
     
     <td width="50%">
-    <h3 align="center">Curso Kotlin Multiplatform</h3>
+    <h3 align="center">Online Courses</h3>
      <div align="center">
-    <a href="https://my-frontedstore.netlify.app/" target="_blank"><img src="img/PortadaS.png" width="400" alt="Suits"></a>
+    <a href="https://beamish-selkie-30615b.netlify.app/#" target="_blank"><img src="img/PortadaS.png" width="400" alt="Suits"></a>
     <p>
-    <a href="https://github.com/abrahanalarcon/my_frontendStore" target="_blank">
+    <a href="https://github.com/abrahanalarcon/Online-Courses-Page" target="_blank">
     <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a>
     </p>
     <p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
@@ -82,13 +82,20 @@
     </table>                                                                                 
     </div>
     <br>
-    
-    ### ⚙️ &nbsp;GitHub Analytics
-    
-    <p align="center">
-    <a href="https://github.com/ArisGuimera">
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
-    </a>
+
+     <p align="center"> Puedes ver mas proyectos aqui en
+     - CODEPEN: [@alarconhazim_](https://codepen.io/abrahanalarcon)
     </p>
+    
+    
+## Habilidades
+
+- HTML 🧡
+- CSS 🎨
+- JavaScripts
+- C#
+- .Net
+- React ⚛️
+
+   
   </body>    
