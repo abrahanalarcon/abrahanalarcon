@@ -4,16 +4,16 @@
 
 ## Sobre mí
 
-- 🌍 Soy de [tu ubicación].
-- 💼 Trabajo como [tu profesión actual o en qué te especializas].
-- 🎓 Estudié [tu área de estudio o carrera].
+- 🌍 Soy de San Pedro de Macoris,Republica Dominica.
+- 💼 Trabajo como ].
+- 🎓 Estudié Mecatronica🤖🦾 y actualmente me estoy dedicando a programador Web.
 
 ## Mis proyectos destacados
 
 Aquí encontrarás algunos de los proyectos en los que he trabajado:
 
 1. [Sutis](https://app.netlify.com/sites/my-frontedstore/overview) 
-2. [Search and Views](https://jazzy-tulumba-7d459b.netlify.app/) 
+2. [Blog Cafe](https://roaring-youtiao-af4457.netlify.app/) 
 
 ## Contáctame
 
@@ -26,6 +26,12 @@ Puedes encontrarme en las siguientes plataformas:
 
 ## Otras habilidades
 
-- [Lista de habilidades o tecnologías que dominas]
+- html 🧡
+- css 🎨
+- JavaScripts
+- c#
+- .net
+- React ⚛️
+
 
 Espero que encuentres interesante lo que hago. ¡Gracias por visitar mi perfil!
