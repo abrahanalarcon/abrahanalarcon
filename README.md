@@ -27,10 +27,10 @@ Puedes encontrarme en las siguientes plataformas:
 ## Habilidades
 
 - HTML 🧡
-- css 🎨
+- CSS 🎨
 - JavaScripts
-- c#
-- .net
+- C#
+- .Net
 - React ⚛️
 
 
