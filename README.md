@@ -84,7 +84,8 @@
     <br>
 
      
-    <p align="center">   
+    <p align="center">  
+     Puedes ver mas proyectos en : 
     <a href="https://codepen.io/abrahanalarcon" target="_blank">CODEPEN</a>
     </p>
     
