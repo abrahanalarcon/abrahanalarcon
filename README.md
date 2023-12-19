@@ -22,9 +22,9 @@
     <td width="50%">
     <h3 align="center">Suits</h3>
     <div align="center">
-    <a href="https://github.com/abrahanalarcon/my_frontendStore" target="_blank"><img src="img/PortadaS.png" width="400" alt="Suits"></a>
+    <a href="https://my-frontedstore.netlify.app/" target="_blank"><img src="img/PortadaS.png" width="400" alt="Suits"></a>
     <p>
-    <a href="https://my-frontedstore.netlify.app/" target="_blank">
+    <a href="https://github.com/abrahanalarcon/my_frontendStore" target="_blank">
     <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a>
     </p>
     <p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
@@ -55,9 +55,9 @@
     <td width="50%">
     <h3 align="center">Curso Android Intermedio</h3>
      <div align="center">
-    <a href="https://github.com/abrahanalarcon/my_frontendStore" target="_blank"><img src="img/PortadaS.png" width="400" alt="Suits"></a>
+    <a href="https://my-frontedstore.netlify.app/" target="_blank"><img src="img/PortadaS.png" width="400" alt="Suits"></a>
     <p>
-    <a href="https://my-frontedstore.netlify.app/" target="_blank">
+    <a href="https://github.com/abrahanalarcon/my_frontendStore" target="_blank">
     <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a>
     </p>
     <p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
@@ -69,9 +69,9 @@
     <td width="50%">
     <h3 align="center">Curso Kotlin Multiplatform</h3>
      <div align="center">
-    <a href="https://github.com/abrahanalarcon/my_frontendStore" target="_blank"><img src="img/PortadaS.png" width="400" alt="Suits"></a>
+    <a href="https://my-frontedstore.netlify.app/" target="_blank"><img src="img/PortadaS.png" width="400" alt="Suits"></a>
     <p>
-    <a href="https://my-frontedstore.netlify.app/" target="_blank">
+    <a href="https://github.com/abrahanalarcon/my_frontendStore" target="_blank">
     <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a>
     </p>
     <p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
