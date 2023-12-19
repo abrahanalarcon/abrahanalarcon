@@ -5,7 +5,7 @@
 ## Sobre mí
 
 - 🌍 Soy de San Pedro de Macoris,Republica Dominica.
-- 💼 Trabajo como ].
+- 💼 Trabajo como Ingeniero de Proyectos y Automatización 
 - 🎓 Estudié Mecatronica🤖🦾 y actualmente me estoy dedicando a programador Web.
 
 ## Mis proyectos destacados
@@ -24,9 +24,9 @@ Puedes encontrarme en las siguientes plataformas:
 
 ¡No dudes en contactarme para colaboraciones o simplemente para charlar!
 
-## Otras habilidades
+## Habilidades
 
-- html 🧡
+- HTML 🧡
 - css 🎨
 - JavaScripts
 - c#
