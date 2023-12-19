@@ -12,8 +12,8 @@
 
 Aquí encontrarás algunos de los proyectos en los que he trabajado:
 
-1. [Proyecto 1](enlace_al_proyecto_1) - Breve descripción del proyecto.
-2. [Proyecto 2](enlace_al_proyecto_2) - Breve descripción del proyecto.
+1. [Sutis](https://app.netlify.com/sites/my-frontedstore/overview) 
+2. [Search and Views](https://jazzy-tulumba-7d459b.netlify.app/) 
 
 ## Contáctame
 
