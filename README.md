@@ -23,7 +23,7 @@
     <a href="https://github.com/abrahanalarcon/my_frontendStore" target="_blank">
     <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a>
     </p>
-    <p>This is one of my favorite projects<strong>with HTML CSS and JavaScript</strong>Every day I add new things. </p>
+    <p>This is one of my favorite projects <strong>with HTML CSS and JavaScript</strong>Every day I add new things. </p>
     </div>
     </div>
                                                                                           
@@ -94,7 +94,7 @@
     <a href="https://github.com/abrahanalarcon/my_frontendStore" target="_blank">
     <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a>
     </p>
-    <p>This is one of my favorite projects<strong>with HTML CSS and JavaScript</strong>Every day I add new things. </p>
+    <p>This is one of my favorite projects <strong>with HTML CSS and JavaScript</strong>Every day I add new things. </p>
     </div>
                                                                                           
     </td>
