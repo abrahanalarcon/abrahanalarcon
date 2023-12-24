@@ -1,15 +1,15 @@
 <div align="center">
-    <h1 align="center">Hola, soy <a href="https://scintillating-raindrop-e03630.netlify.app/">Moises Alarcon</a> 👋</h1>
+    <h1 align="center">Hello, I am <a href="https://scintillating-raindrop-e03630.netlify.app/">Moises Alarcon</a> 👋</h1>
     </div>
     
  <body>   
     
     
-## Sobre mi
+## About me
     
- - 🌍 Soy de San Pedro de Macoris,Republica Dominica.
- - 💼 Trabajo como Ingeniero de Proyectos y Automatización 
- - 🎓 Estudié Mecatronica🤖🦾 y actualmente me estoy dedicando a programador Web.
+ - 🌍 From San Pedro de Macoris,Republica Dominica.
+ - 💼 I work as a Project and Automation Engineer
+ - 🎓 I studied Mechatronics🤖🦾 and I am currently working as a Web programmer.
     <br>
     ## My Top Projects
 
@@ -23,7 +23,8 @@
     <a href="https://github.com/abrahanalarcon/my_frontendStore" target="_blank">
     <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a>
     </p>
-    <p>Este es unos de mis proyectos favorito<strong>con HTML CSS Y JavaScript</strong> cada dia le voy agregando cosas nuevas.</p>
+    <p>This is one of my favorite projects<strong>with HTML CSS and JavaScript</strong>Every day I add new things. </p>
+    </div>
     </div>
                                                                                           
     </td>
@@ -40,7 +41,7 @@
     </a>
     
     </p>
-    <p>Este fue unos de mis proyectos  <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador como freelacer  fue unos de los primeros paso que dí al empezar aprender programacion web</p>
+    <p>This was one of my projects  <strong>ESSENTIALS</strong>To be able to work as a freelance developer was one of the first steps I took when I started learning web programming. </p>
     </div>                                                             
     </table>                                                                                 
     </div>
@@ -56,7 +57,7 @@
     <a href="https://github.com/abrahanalarcon/Validation-Email" target="_blank">
     <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a>
     </p>
-    <p>Este proyecto fue con <strong>HTML Y CSS</strong> es totalmente responsiev <strong>aplicando grid y flex</strong> espero que te guste!</p>
+    <p>This project was done with <strong>Tailwind and JavaScript</strong> apply the function of<strong></strong>I hope you like it! </p>
     </div>
    
                                                                                           
@@ -70,7 +71,7 @@
     <a href="https://github.com/abrahanalarcon/Online-Courses-Page" target="_blank">
     <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a>
     </p>
-    <p>Este proyecto fue hecho con <strong>JavaScript</strong> aplique lo que fue la funcion de  <strong>Local Storage</strong> espero que te guste!</p>
+    <p>This project was done with <strong>JavaScript</strong> apply the function of<strong>Local Storage</strong>I hope you like it! </p>
     </div>
   
                                                                                           
@@ -93,7 +94,7 @@
     <a href="https://github.com/abrahanalarcon/my_frontendStore" target="_blank">
     <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a>
     </p>
-    <p>Este es unos de mis proyectos favorito<strong>con HTML CSS Y JavaScript</strong> cada dia le voy agregando cosas nuevas.</p>
+    <p>This is one of my favorite projects<strong>with HTML CSS and JavaScript</strong>Every day I add new things. </p>
     </div>
                                                                                           
     </td>
@@ -110,7 +111,7 @@
     </a>
     
     </p>
-    <p>Este fue unos de mis proyectos  <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador como freelacer  fue unos de los primeros paso que dí al empezar aprender programacion web</p>
+    <p>This was one of my projects  <strong>ESSENTIALS</strong>To be able to work as a freelance developer was one of the first steps I took when I started learning web programming. </p>
     </div>                                                             
     </table>                                                                                 
     </div>
@@ -126,7 +127,7 @@
     <a href="https://github.com/abrahanalarcon/my_blogcafe" target="_blank">
     <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a>
     </p>
-    <p>Este proyecto fue con <strong>HTML Y CSS</strong> es totalmente responsiev <strong>aplicando grid y flex</strong> espero que te guste!</p>
+    <p>This project was done with <strong>HTML Y CSS</strong> It is fully responsive<strong>apply grid and flex</strong> I hope you like it!</p>
     </div>
    
                                                                                           
@@ -140,7 +141,7 @@
     <a href="https://github.com/abrahanalarcon/Online-Courses-Page" target="_blank">
     <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a>
     </p>
-    <p>Este proyecto fue hecho con <strong>JavaScript</strong> aplique lo que fue la funcion de  <strong>Local Storage</strong> espero que te guste!</p>
+    <p>This project was done with <strong>JavaScript</strong> apply the function of<strong>Local Storage</strong>I hope you like it! </p>
     </div>                                                                                  
     </td>  
     </table>                                                                                 
@@ -149,12 +150,12 @@
 
      
     <p align="center">  
-     Puedes ver mas proyectos en : 
+     You can see more projects at:: 
     <a href="https://codepen.io/abrahanalarcon" target="_blank">CODEPEN</a>
     </p>
     
     
-## Habilidades
+## Skills
 
 - HTML 🧡
 - CSS 🎨
