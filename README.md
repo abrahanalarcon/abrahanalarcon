@@ -11,7 +11,7 @@
  - 💼 Trabajo como Ingeniero de Proyectos y Automatización 
  - 🎓 Estudié Mecatronica🤖🦾 y actualmente me estoy dedicando a programador Web.
     <br>
-    ## Proyectos 
+    ## My Top Projects
 
     <table>
     <tr>
@@ -30,12 +30,12 @@
     
     <td width="50%">
      <br>
-    <h3 align="center">Freelancer Page</h3>
+    <h3 align="center">To do List/Tweet</h3>
     <div align="center">                                       
-    <a href="https://taupe-valkyrie-fb7011.netlify.app/" target="_blank"><img src="img/3.png" width="400" alt="Freelancer Page"></a>
+    <a href="https://peppy-smakager-6c1516.netlify.app/" target="_blank"><img src="img/tweet.jpg" width="400" alt="Freelancer Page"></a>
     <br>
     <p>
-    <a href="https://github.com/abrahanalarcon/My_freelancerPage" target="_blank">
+    <a href="https://github.com/abrahanalarcon/Local-Storage" target="_blank">
     <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
     </a>
     
@@ -49,11 +49,11 @@
     <table>
     <tr>
     <td width="50%">
-    <h3 align="center">Blog Café</h3>
+    <h3 align="center">Validation Email</h3>
      <div align="center">
-    <a href="https://roaring-youtiao-af4457.netlify.app/" target="_blank"><img src="img/1.png" width="400" alt="blog cafe"></a>
+    <a href="https://effulgent-taiyaki-045932.netlify.app/" target="_blank"><img src="img/6.png" width="400" alt="blog cafe"></a>
     <p>
-    <a href="https://github.com/abrahanalarcon/my_blogcafe" target="_blank">
+    <a href="https://github.com/abrahanalarcon/Validation-Email" target="_blank">
     <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a>
     </p>
     <p>Este proyecto fue con <strong>HTML Y CSS</strong> es totalmente responsiev <strong>aplicando grid y flex</strong> espero que te guste!</p>
@@ -81,7 +81,7 @@
     
     
     
-     ## Proyectos 
+     ## Projects
 
     <table>
     <tr>
