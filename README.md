@@ -157,7 +157,7 @@
 
      ## Projects with C and C++ in Mechatronics
     
-    <img src="https://blogs.uninter.edu.mx/ESCAT/wp-content/uploads/2020/08/Portadaa.jpg">
+    
     <table>
     <tr>
     <td width="50%">
