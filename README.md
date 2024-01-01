@@ -183,8 +183,14 @@
     <div align="center">                                       
     <a href="https://peppy-smakager-6c1516.netlify.app/" target="_blank"><img src="https://cosmosmagazine.com/wp-content/uploads/2022/02/1200-GettyImages-1196210064.jpg"></a>
     <br>
+       <p>
+    <a href="https://drive.google.com/file/d/1P6GRvtjC3UCkgcIF_sGjqEdTRFt9zxjI/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=googledrive&logoColor=black">
+
+    </a>
+    </p>
     
-    <p>This was one of my projects  <strong>ESSENTIALS</strong>To be able to work as a freelance developer was one of the first steps I took when I started learning web programming. </p>
+    <p>This is one of my favorite projects, <strong>it is a kind of Atari game with two modules,</strong> I used a joystick, a speaker, and an LED matrix. This project was with <a href="https://www.st.com/en/development-tools/stm32cubeide.html" target="_blank">the stm32cubeide IDE</a></p>
     </div>                                                             
     </table>                                                                                 
     </div>
