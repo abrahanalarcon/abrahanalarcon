@@ -156,7 +156,7 @@
 
      ## Projects with C and C++ in Mechatronics
     
-    <img src="https://blogs.unitec.mx/hubfs/Imported_Blog_Media/que-aprendes-cuando-estudias-ingenieria-mecatronica-3-Dec-17-2022-06-27-31-0784-PM.png#keepProtocol">
+    <img src="https://blogs.uninter.edu.mx/ESCAT/wp-content/uploads/2020/08/Portadaa.jpg">
     <table>
     <tr>
     <td width="50%">
