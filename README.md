@@ -181,7 +181,7 @@
      <br>
     <h3 align="center">Radar</h3>
     <div align="center">                                       
-    <a href="https://peppy-smakager-6c1516.netlify.app/" target="_blank"><img src="img/radar.jpg"></a>
+    <a href="https://peppy-smakager-6c1516.netlify.app/" target="_blank"><img src="https://cosmosmagazine.com/wp-content/uploads/2022/02/1200-GettyImages-1196210064.jpg"></a>
     <br>
     
     <p>This was one of my projects  <strong>ESSENTIALS</strong>To be able to work as a freelance developer was one of the first steps I took when I started learning web programming. </p>
