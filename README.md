@@ -161,11 +161,11 @@
     <table>
     <tr>
     <td width="50%">
-    <h3 align="center">Suits</h3>
+    <h3 align="center">Game Boy</h3>
     <div align="center">
-    <a href="https://my-frontedstore.netlify.app/" target="_blank"><img src="img/Game Boy.jpg" width="400" alt="Suits"></a>
+    <a href="" target="_blank"><img src="img/Game Boy.jpg" width="400" alt="Suits"></a>
     <p>
-    <a href="https://github.com/abrahanalarcon/Local-Storage" target="_blank">
+    <a href="https://drive.google.com/file/d/1P6GRvtjC3UCkgcIF_sGjqEdTRFt9zxjI/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=googledrive&logoColor=black">
 
     </a>
