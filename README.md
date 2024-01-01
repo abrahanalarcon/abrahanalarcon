@@ -171,7 +171,7 @@
     </a>
     </p>
     
-    <p>This is one of my favorite projects <strong>with HTML CSS and JavaScript</strong>Every day I add new things. </p>
+    <p>This is one of my favorite projects, <strong>it is a kind of Atari game with two modules,</strong> I used a joystick, a speaker, and an LED matrix. This project was with <a href="https://www.st.com/en/development-tools/stm32cubeide.html" target="_blank">the stm32cubeide IDE</a></p>
     </div>
     </div>
                                                                                           
