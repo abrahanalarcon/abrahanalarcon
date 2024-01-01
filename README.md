@@ -179,9 +179,9 @@
     
     <td width="50%">
      <br>
-    <h3 align="center">To do List/Tweet</h3>
+    <h3 align="center">Radar</h3>
     <div align="center">                                       
-    <a href="https://peppy-smakager-6c1516.netlify.app/" target="_blank"><img src="img/tweet.jpg" width="400" alt="Freelancer Page"></a>
+    <a href="https://peppy-smakager-6c1516.netlify.app/" target="_blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fvector%2Fblue-radar-screen-scanning-surrounding-and-incoming-aerial-traffic-gm1219565719-356783339&psig=AOvVaw34ZbpI38iRIrZUr_ysW-4h&ust=1704216730352000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCXnZ7cvIMDFQAAAAAdAAAAABAD" width="400" alt="Freelancer Page"></a>
     <br>
     
     <p>This was one of my projects  <strong>ESSENTIALS</strong>To be able to work as a freelance developer was one of the first steps I took when I started learning web programming. </p>
