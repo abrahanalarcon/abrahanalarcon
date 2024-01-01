@@ -153,6 +153,61 @@
      You can see more projects at:: 
     <a href="https://codepen.io/abrahanalarcon" target="_blank">CODEPEN</a>
     </p>
+
+     ## Projects with C and C++ in Mechatronics
+
+    <table>
+    <tr>
+    <td width="50%">
+    <h3 align="center">Suits</h3>
+    <div align="center">
+    <a href="https://my-frontedstore.netlify.app/" target="_blank"><img src="https://blogs.unitec.mx/hubfs/Imported_Blog_Media/que-aprendes-cuando-estudias-ingenieria-mecatronica-3-Dec-17-2022-06-27-31-0784-PM.png#keepProtocol" width="400" alt="Suits"></a>
+    
+    <p>This is one of my favorite projects <strong>with HTML CSS and JavaScript</strong>Every day I add new things. </p>
+    </div>
+    </div>
+                                                                                          
+    </td>
+    
+    <td width="50%">
+     <br>
+    <h3 align="center">To do List/Tweet</h3>
+    <div align="center">                                       
+    <a href="https://peppy-smakager-6c1516.netlify.app/" target="_blank"><img src="img/tweet.jpg" width="400" alt="Freelancer Page"></a>
+    <br>
+    
+    <p>This was one of my projects  <strong>ESSENTIALS</strong>To be able to work as a freelance developer was one of the first steps I took when I started learning web programming. </p>
+    </div>                                                             
+    </table>                                                                                 
+    </div>
+    <br>
+    
+    <table>
+    <tr>
+    <td width="50%">
+    <h3 align="center">Validation Email</h3>
+     <div align="center">
+    <a href="https://effulgent-taiyaki-045932.netlify.app/" target="_blank"><img src="img/6.png" width="400" alt="blog cafe"></a>
+    
+    <p>This project was done with <strong>Tailwind and JavaScript</strong> apply the function of<strong></strong>I hope you like it! </p>
+    </div>
+   
+                                                                                          
+    </td>       
+    
+    <td width="50%">
+    <h3 align="center">Online Courses</h3>
+     <div align="center">
+    <a href="https://beamish-selkie-30615b.netlify.app/#" target="_blank"><img src="img/5.png" width="400" alt="Suits"></a>
+   
+    <p>This project was done with <strong>JavaScript</strong> apply the function of<strong>Local Storage</strong>I hope you like it! </p>
+    </div>
+  
+                                                                                          
+    </td>  
+    </table>                                                                                 
+    </div>
+    <br>
     
     
 ## Skills
