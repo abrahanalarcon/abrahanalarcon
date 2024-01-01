@@ -35,12 +35,13 @@
     <div align="center">                                       
     <a href="https://peppy-smakager-6c1516.netlify.app/" target="_blank"><img src="img/tweet.jpg" width="400" alt="Freelancer Page"></a>
     <br>
+
     <p>
     <a href="https://github.com/abrahanalarcon/Local-Storage" target="_blank">
     <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
     </a>
-    
     </p>
+
     <p>This was one of my projects  <strong>ESSENTIALS</strong>To be able to work as a freelance developer was one of the first steps I took when I started learning web programming. </p>
     </div>                                                             
     </table>                                                                                 
@@ -163,6 +164,12 @@
     <h3 align="center">Suits</h3>
     <div align="center">
     <a href="https://my-frontedstore.netlify.app/" target="_blank"><img src="img/Game Boy.jpg" width="400" alt="Suits"></a>
+    <p>
+    <a href="https://github.com/abrahanalarcon/Local-Storage" target="_blank">
+    <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=googledrive&logoColor=black">
+
+    </a>
+    </p>
     
     <p>This is one of my favorite projects <strong>with HTML CSS and JavaScript</strong>Every day I add new things. </p>
     </div>
