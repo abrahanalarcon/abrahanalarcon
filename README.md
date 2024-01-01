@@ -181,7 +181,7 @@
      <br>
     <h3 align="center">Radar</h3>
     <div align="center">                                       
-    <a href="https://peppy-smakager-6c1516.netlify.app/" target="_blank"><img src="https://media.istockphoto.com/id/1219565719/vector/blue-radar-screen-scanning-surrounding-and-incoming-aerial-traffic.jpg?s=612x612&w=0&k=20&c=Sd74M0cSiLULbmPiXsnZ8D58_wQ79HSRvgAYDCMAo4s=" width="400" alt="Freelancer Page"></a>
+    <a href="https://peppy-smakager-6c1516.netlify.app/" target="_blank"><img src="img/radar.jpg"></a>
     <br>
     
     <p>This was one of my projects  <strong>ESSENTIALS</strong>To be able to work as a freelance developer was one of the first steps I took when I started learning web programming. </p>
