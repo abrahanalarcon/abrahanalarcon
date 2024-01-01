@@ -161,7 +161,7 @@
     <td width="50%">
     <h3 align="center">Suits</h3>
     <div align="center">
-    <a href="https://my-frontedstore.netlify.app/" target="_blank"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4592740d-aa28-4bae-bf98-80e888200666/dcsdr7x-0148a9da-7418-4261-b8e5-25f666988e2a.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQ1OTI3NDBkLWFhMjgtNGJhZS1iZjk4LTgwZTg4ODIwMDY2NlwvZGNzZHI3eC0wMTQ4YTlkYS03NDE4LTQyNjEtYjhlNS0yNWY2NjY5ODhlMmEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.CzxAymyTwBrX_VJ--zoT50dniOzs8ImZg7cbu8Yy3YM" width="400" alt="Suits"></a>
+    <a href="https://my-frontedstore.netlify.app/" target="_blank"><img src="img/Game Boy.jpg" width="400" alt="Suits"></a>
     
     <p>This is one of my favorite projects <strong>with HTML CSS and JavaScript</strong>Every day I add new things. </p>
     </div>
