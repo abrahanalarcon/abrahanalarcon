@@ -196,32 +196,8 @@
     </div>
     <br>
     
-    <table>
-    <tr>
-    <td width="50%">
-    <h3 align="center">Validation Email</h3>
-     <div align="center">
-    <a href="https://effulgent-taiyaki-045932.netlify.app/" target="_blank"><img src="img/6.png" width="400" alt="blog cafe"></a>
-    
-    <p>This project was done with <strong>Tailwind and JavaScript</strong> apply the function of<strong></strong>I hope you like it! </p>
-    </div>
    
-                                                                                          
-    </td>       
-    
-    <td width="50%">
-    <h3 align="center">Online Courses</h3>
-     <div align="center">
-    <a href="https://beamish-selkie-30615b.netlify.app/#" target="_blank"><img src="img/5.png" width="400" alt="Suits"></a>
-   
-    <p>This project was done with <strong>JavaScript</strong> apply the function of<strong>Local Storage</strong>I hope you like it! </p>
-    </div>
   
-                                                                                          
-    </td>  
-    </table>                                                                                 
-    </div>
-    <br>
     
     
 ## Skills
