@@ -165,11 +165,8 @@
     <div align="center">
     <a href="" target="_blank"><img src="img/Game Boy.jpg" width="400" alt="Suits"></a>
     <p>
+    
     <a href="https://drive.google.com/file/d/1P6GRvtjC3UCkgcIF_sGjqEdTRFt9zxjI/view?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=googledrive&logoColor=black">
-
-    </a>
-    <a href="https://youtu.be/vJapzH_46a8" target="_blank">
     <img src="https://img.shields.io/badge/-Google Drive-blue?style=for-the-badge&color=4285F4&logo=google-drive&logoColor=white">
     </a>
     </p>
