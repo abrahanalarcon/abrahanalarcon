@@ -26,7 +26,7 @@
     <p>This is one of my favorite projects <strong>with HTML CSS and JavaScript</strong>Every day I add new things. </p>
     </div>
     </div>
-                                                                                          
+       ///                                                                                   
     </td>
     
     <td width="50%">
@@ -88,11 +88,11 @@
     <table>
     <tr>
     <td width="50%">
-    <h3 align="center">Suits</h3>
+    <h3 align="center">GastoSemanal</h3>
     <div align="center">
-    <a href="https://my-frontedstore.netlify.app/" target="_blank"><img src="img/PortadaS.png" width="400" alt="Suits"></a>
+    <a href="https://fantastic-platypus-1522d0.netlify.app/" target="_blank"><img src="img/13.png" width="400" alt="Suits"></a>
     <p>
-    <a href="https://github.com/abrahanalarcon/my_frontendStore" target="_blank">
+    <a href="https://github.com/abrahanalarcon/GastoSemanal" target="_blank">
     <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a>
     </p>
     <p>This is one of my favorite projects <strong>with HTML CSS and JavaScript</strong>Every day I add new things. </p>
