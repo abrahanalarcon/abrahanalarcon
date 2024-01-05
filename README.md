@@ -163,7 +163,7 @@
     <td width="50%">
     <h3 align="center">Game Boy</h3>
     <div align="center">
-    <a href="" target="_blank"><img src="img/Game Boy.jpg" width="400" alt="Suits"></a>
+    <a href="https://drive.google.com/file/d/1P6GRvtjC3UCkgcIF_sGjqEdTRFt9zxjI/view?usp=drive_link" target="_blank"><img src="img/Game Boy.jpg" width="400" alt="Suits"></a>
     <p>
     <a href="https://drive.google.com/drive/folders/1wAB7-M_SvX_0A82jN-v0WnZzmpE4-Lzk?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=googledrive&logoColor=black">
@@ -184,7 +184,7 @@
      <br>
     <h3 align="center">Avoiding Obstacle Robot </h3>
     <div align="center">                                       
-    <a href="" target="_blank"><img src="https://i.ytimg.com/vi/1n_KjpMfVT0/maxresdefault.jpg"></a>
+    <a href="https://drive.google.com/drive/folders/1KsrOZYiIOv19Ww4PmzuIddCSfq8zqjBk?usp=drive_link" target="_blank"><img src="https://i.ytimg.com/vi/1n_KjpMfVT0/maxresdefault.jpg"></a>
     <br>
        <p>
     <a href="https://drive.google.com/drive/folders/1KsrOZYiIOv19Ww4PmzuIddCSfq8zqjBk?usp=drive_link" target="_blank">
