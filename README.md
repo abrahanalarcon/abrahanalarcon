@@ -151,7 +151,7 @@
 
      
     <p align="center">  
-     You can see more projects at:: 
+     You can see more projects at:
     <a href="https://codepen.io/abrahanalarcon" target="_blank">CODEPEN</a>
     </p>
 
