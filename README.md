@@ -184,7 +184,7 @@
      <br>
     <h3 align="center">Avoiding Obstacle Robot </h3>
     <div align="center">                                       
-    <a href="https://peppy-smakager-6c1516.netlify.app/" target="_blank"><img src="https://i.ytimg.com/vi/1n_KjpMfVT0/maxresdefault.jpg"></a>
+    <a href="" target="_blank"><img src="https://i.ytimg.com/vi/1n_KjpMfVT0/maxresdefault.jpg"></a>
     <br>
        <p>
     <a href="https://drive.google.com/drive/folders/1KsrOZYiIOv19Ww4PmzuIddCSfq8zqjBk?usp=drive_link" target="_blank">
