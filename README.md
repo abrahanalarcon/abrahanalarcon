@@ -162,7 +162,7 @@
     <td width="50%">
     <h3 align="center">Bank Account</h3>
     <div align="center">
-    <a href="https://drive.google.com/file/d/1P6GRvtjC3UCkgcIF_sGjqEdTRFt9zxjI/view?usp=drive_link" target="_blank"><img src="img/14.png" width="400" alt="Suits"></a>
+    <a href="https://drive.google.com/file/d/1P6GRvtjC3UCkgcIF_sGjqEdTRFt9zxjI/view?usp=drive_link" target="_blank"><img src="img/15.png" width="400" alt="Suits"></a>
    <p>
     <a href="https://github.com/abrahanalarcon/Online-Courses-Page" target="_blank">
     <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a>
