@@ -33,7 +33,7 @@
      <br>
     <h3 align="center">Citas</h3>
     <div align="center">                                       
-    <a href="https://scintillating-fenglisu-6c6581.netlify.app/" target="_blank"><img src="img/14.png" width="400" alt="Freelancer Page"></a>
+    <a href="https://citasreactvet.netlify.app/" target="_blank"><img src="img/14.png" width="400" alt="Freelancer Page"></a>
     <br>
 
     <p>
