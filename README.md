@@ -43,6 +43,8 @@
     <p>
     <a href="https://citasreactvet.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+     <a href="https://citasreactvet.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Deploy-blue?style=for-the-badge&color=E9F6FF" alt="Deploy">
     </a>
     </p>
 
@@ -61,6 +63,8 @@
     <p>
     <a href="https://github.com/abrahanalarcon/Validation-Email" target="_blank">
     <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a>
+    <a href="https://citasreactvet.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Deploy-blue?style=for-the-badge&color=E9F6FF" alt="Deploy">
     </p>
     <p>This project was done with <strong>Tailwind and JavaScript</strong> apply the function of<strong></strong>I hope you like it! </p>
     </div>
@@ -75,6 +79,9 @@
     <p>
     <a href="https://github.com/abrahanalarcon/Online-Courses-Page" target="_blank">
     <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a>
+      <a href="https://beamish-selkie-30615b.netlify.app/#" target="_blank">
+    <img src="https://img.shields.io/badge/-Deploy-blue?style=for-the-badge&color=E9F6FF" alt="Deploy">
+
     </p>
     <p>This project was done with <strong>JavaScript</strong> apply the function of<strong>Local Storage</strong>I hope you like it! </p>
     </div>
