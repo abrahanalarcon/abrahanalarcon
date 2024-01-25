@@ -23,7 +23,7 @@
     <a href="https://github.com/abrahanalarcon/my_frontendStore" target="_blank">
     <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a>
     <a href="https://my-frontedstore.netlify.app/" target="_blank">
-   <img src="https://img.shields.io/badge/-Deploy-blue?style=for-the-badge&color=3fFD7f" alt="Deploy">
+   <img src="https://img.shields.io/badge/-Deploy-blue?style=for-the-badge&color=E9F6FF" alt="Deploy">
    </a>
 
     </p>
