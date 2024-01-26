@@ -59,11 +59,11 @@
     <td width="50%">
     <h3 align="center">Validation Email</h3>
      <div align="center">
-    <a href="https://citasreactvet.netlify.app/" target="_blank"><img src="img/6.png" width="400" alt="blog cafe"></a>
+    <a href="https://effulgent-taiyaki-045932.netlify.app/" target="_blank"><img src="img/6.png" width="400" alt="blog cafe"></a>
     <p>
     <a href="https://github.com/abrahanalarcon/Validation-Email" target="_blank">
     <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a>
-    <a href="https://citasreactvet.netlify.app/" target="_blank">
+    <a href="https://effulgent-taiyaki-045932.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Deploy-blue?style=for-the-badge&color=E9F6FF" alt="Deploy">
     </p>
     <p>This project was done with <strong>Tailwind and JavaScript</strong> apply the function of<strong></strong>I hope you like it! </p>
