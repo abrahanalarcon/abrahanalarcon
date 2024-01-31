@@ -168,8 +168,12 @@
      
     <p align="center">  
      👁️ You can see more projects at:
-    <a href="https://codepen.io/abrahanalarcon" target="_blank">CODEPEN</a>
-    </p>
+       <a href="https://codepen.io/abrahanalarcon" target="_blank">
+       <img align="center" src="URL_DE_LA_IMAGEN_DE_CODEPEN" alt="Tu Usuario en CodePen" height="30" width="40" />
+       </a>
+      </p>
+
+    
 
 
    ## C#
