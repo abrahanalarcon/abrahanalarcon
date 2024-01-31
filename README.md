@@ -166,12 +166,12 @@
     <br>
 
      
-    <p align="center">  
-     
-       <a href="https://codepen.io/abrahanalarcon" target="_blank">
-       <img align="center" src="URL_DE_LA_IMAGEN_DE_CODEPEN" alt="Tu Usuario en CodePen" height="30" width="40" />
-       </a>
-      </p>
+    
+
+      <a href="https://codepen.io/abrahanalarcon" target="_blank">
+      <img align="center" src="URL_DE_LA_IMAGEN_DE_CODEPEN" alt="Tu Usuario en CodePen" height="30" width="40" />
+      </a>
+
 
     
 
