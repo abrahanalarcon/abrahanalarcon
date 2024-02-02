@@ -60,10 +60,7 @@
     
     <table>
     <tr>
-
-
-    ///
-      <td width="50%">
+    <td width="50%">
     <h3 align="center">Suits</h3>
     <div align="center">
     <a href="https://my-frontedstore.netlify.app/" target="_blank"><img src="img/PortadaS.png" width="400" alt="Suits"></a>
@@ -124,11 +121,11 @@
     </p>
     <p>This was one of my projects  <strong>ESSENTIALS</strong>To be able to work as a freelance developer was one of the first steps I took when I started learning web programming. </p>
     </div>                                                             
-    </table>                                                                                 
+                                                                                  
     </div>
     <br>
     
-    <table>
+    
     <tr>
     <td width="50%">
     <h3 align="center">Blog Café</h3>
