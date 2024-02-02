@@ -58,6 +58,46 @@
     </div>
     <br>
 
+    <table>
+    <tr>
+    <td width="50%">
+    <h3 align="center">Weekly Expense</h3>
+     <div align="center">
+    <a href="https://fantastic-platypus-1522d0.netlify.app/" target="_blank"><img src="img/13.png" width="400" alt="blog cafe"></a>
+    <p>
+    <a href="https://github.com/abrahanalarcon/GastoSemanal target="_blank">
+    <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a>
+    <a href="https://fantastic-platypus-1522d0.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Deploy-blue?style=for-the-badge&color=E9F6FF" alt="Deploy">
+    </p>
+    <p>This project was done with <strong>Tailwind and JavaScript</strong>I hope you like it! </p>
+    </div>
+   
+                                                                                          
+    </td> 
+  
+    
+    <td width="50%">
+     <br>
+    <h3 align="center">Citas-React</h3>
+    <div align="center">                                       
+    <a href="https://citasreactvet.netlify.app/" target="_blank"><img src="img/14.png" width="400" alt="Freelancer Page"></a>
+    <br>
+
+    <p>
+    <a href="https://citasreactvet.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+     <a href="https://citasreactvet.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Deploy-blue?style=for-the-badge&color=E9F6FF" alt="Deploy">
+    </a>
+    </p>
+
+    <p>This was a similar form with react and tailwind</p>
+    </div>                                                             
+    </table>                                                                                 
+    </div>
+    <br>
+
     ## JavaScript 
     
     <table>
