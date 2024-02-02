@@ -108,7 +108,7 @@
     <td width="50%">
     <h3 align="center">Coffee Blog</h3>
     <div align="center">
-    <a href="https://roaring-youtiao-af4457.netlify.app/" target="_blank"><img src="img/3.png" width="400" alt="Coffee Blog"></a>
+    <a href="https://roaring-youtiao-af4457.netlify.app/" target="_blank"><img src="img/1.png" width="400" alt="Coffee Blog"></a>
     <p>
     <a href="https://github.com/abrahanalarcon/my_blogcafe" target="_blank">
     <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a>
@@ -127,7 +127,7 @@
     <td width="50%">
     <h3 align="center">Online Courses</h3>
      <div align="center">
-    <a href="https://beamish-selkie-30615b.netlify.app/#" target="_blank"><img src="img/5.png" width="400" alt="Suits"></a>
+    <a href="https://beamish-selkie-30615b.netlify.app/#" target="_blank"><img src="img/3.png" width="400" alt="Suits"></a>
     <p>
     <a href="https://github.com/abrahanalarcon/Online-Courses-Page" target="_blank">
     <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a>
