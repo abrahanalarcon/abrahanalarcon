@@ -125,7 +125,7 @@
           
     
     <td width="50%">
-    <h3 align="center">Online Courses</h3>
+    <h3 align="center">Freelancer Page</h3>
      <div align="center">
     <a href="https://taupe-valkyrie-fb7011.netlify.app/" target="_blank"><img src="img/3.png" width="400" alt="Suits"></a>
     <p>
@@ -135,7 +135,7 @@
     <img src="https://img.shields.io/badge/-Deploy-blue?style=for-the-badge&color=E9F6FF" alt="Deploy">
 
     </p>
-    <p>This project was done with <strong>JavaScript</strong> apply the function of <strong> Local Storage</strong>I hope you like it! </p>
+   
     </div>
   
                                                                                           
