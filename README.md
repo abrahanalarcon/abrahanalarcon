@@ -70,7 +70,7 @@
     <a href="https://fantastic-platypus-1522d0.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Deploy-blue?style=for-the-badge&color=E9F6FF" alt="Deploy">
     </p>
-    <p>This project was done with <strong>CSS PLAIN and JavaScript</strong>I hope you like it! </p>
+    <p>This project was done with <strong>Boostrap and JavaScript</strong>I hope you like it! </p>
     </div>
    
                                                                                           
