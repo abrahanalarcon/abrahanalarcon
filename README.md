@@ -8,7 +8,7 @@
     
 ## About me
     
- - 🌍 From San Pedro de Macoris,Republica Dominica.
+ - 🌍 From Santo Domingo,Republica Dominicana.
  - 💼 I work as a Project and Automation Engineer
  - 🎓 I studied Mechatronics🤖🦾 and I am currently working as a Web programmer.
 
