@@ -213,7 +213,7 @@
     <a href="https://github.com/abrahanalarcon/My_freelancerPage" target="_blank">
     <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a>
       <a href="https://taupe-valkyrie-fb7011.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Deploy-blue?style=for-the-badge&color=E9F6FF" alt="Deploy">
+    <img src="https://img.shields.io/badge/-Demo-blue?style=for-the-badge&color=E9F6FF" alt="Deploy">
 
     </p>
    
