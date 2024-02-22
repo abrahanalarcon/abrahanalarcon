@@ -30,7 +30,7 @@
     <a href="https://streamingmoviesreact.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Deploy-blue?style=for-the-badge&color=E9F6FF" alt="Deploy">
     </p>
-    <p>This project was done with <strong>Tailwind and JavaScript</strong>I hope you like it! </p>
+    <p>One of my favorites Projects </p>
     </div>
    
                                                                                           
