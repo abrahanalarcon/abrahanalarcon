@@ -39,7 +39,7 @@
     
     <td width="50%">
      <br>
-    <h3 align="center">Citas-React</h3>
+    <h3 align="center">🐕Citas-React</h3>
     <div align="center">                                       
     <a href="https://citasreactvet.netlify.app/" target="_blank"><img src="img/14.png" width="400" alt="Freelancer Page"></a>
     <br>
@@ -80,7 +80,7 @@
     
     <td width="50%">
      <br>
-    <h3 align="center">Citas-React</h3>
+    <h3 align="center">🐕Citas-React</h3>
     <div align="center">                                       
     <a href="https://citasreactvet.netlify.app/" target="_blank"><img src="img/14.png" width="400" alt="Freelancer Page"></a>
     <br>
