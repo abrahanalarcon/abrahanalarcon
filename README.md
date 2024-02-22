@@ -28,7 +28,7 @@
     <a href="https://github.com/abrahanalarcon/movies-react" target="_blank">
     <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a>
     <a href="https://streamingmoviesreact.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Deploy-blue?style=for-the-badge&color=E9F6FF" alt="Deploy">
+    <img src="https://img.shields.io/badge/-Demo-blue?style=for-the-badge&color=E9F6FF" alt="Deploy">
     </p>
     <p>One of my favorites Projects </p>
     </div>
@@ -48,7 +48,7 @@
     <a href="https://citasreactvet.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
      <a href="https://github.com/abrahanalarcon/movies-react" target="_blank">
-    <img src="https://img.shields.io/badge/-Deploy-blue?style=for-the-badge&color=E9F6FF" alt="Deploy">
+    <img src="https://img.shields.io/badge/-Demo-blue?style=for-the-badge&color=E9F6FF" alt="Deploy">
     </a>
     </p>
 
@@ -69,7 +69,7 @@
     <a href="https://github.com/abrahanalarcon/Validation-Email" target="_blank">
     <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a>
     <a href="https://effulgent-taiyaki-045932.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Deploy-blue?style=for-the-badge&color=E9F6FF" alt="Deploy">
+    <img src="https://img.shields.io/badge/-Demo-blue?style=for-the-badge&color=E9F6FF" alt="Deploy">
     </p>
     <p>This project was done with <strong>Tailwind and JavaScript</strong>I hope you like it! </p>
     </div>
@@ -89,7 +89,7 @@
     <a href="https://citasreactvet.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
      <a href="https://citasreactvet.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Deploy-blue?style=for-the-badge&color=E9F6FF" alt="Deploy">
+    <img src="https://img.shields.io/badge/-Demo-blue?style=for-the-badge&color=E9F6FF" alt="Deploy">
     </a>
     </p>
 
@@ -109,7 +109,7 @@
     <a href="https://github.com/abrahanalarcon/GastoSemanal target="_blank">
     <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a>
     <a href="https://fantastic-platypus-1522d0.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Deploy-blue?style=for-the-badge&color=E9F6FF" alt="Deploy">
+    <img src="https://img.shields.io/badge/-Demo-blue?style=for-the-badge&color=E9F6FF" alt="Deploy">
     </p>
     <p>This project was done with <strong>Boostrap and JavaScript</strong>I hope you like it! </p>
     </div>
@@ -129,7 +129,7 @@
     <a href="https://github.com/abrahanalarcon/control-gastos" target="_blank">
     <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
      <a href="https://ubiquitous-begonia-92e5e9.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Deploy-blue?style=for-the-badge&color=E9F6FF" alt="Deploy">
+    <img src="https://img.shields.io/badge/-Demo-blue?style=for-the-badge&color=E9F6FF" alt="Deploy">
     </a>
     </p>
 
@@ -151,7 +151,7 @@
     <a href="https://github.com/abrahanalarcon/my_frontendStore" target="_blank">
     <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a>
     <a href="https://my-frontedstore.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Deploy-blue?style=for-the-badge&color=E9F6FF" alt="Deploy">
+    <img src="https://img.shields.io/badge/-Demo-blue?style=for-the-badge&color=E9F6FF" alt="Deploy">
     </a>
 
     </p>
@@ -170,7 +170,7 @@
     <a href="https://github.com/abrahanalarcon/Online-Courses-Page" target="_blank">
     <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a>
       <a href="https://beamish-selkie-30615b.netlify.app/#" target="_blank">
-    <img src="https://img.shields.io/badge/-Deploy-blue?style=for-the-badge&color=E9F6FF" alt="Deploy">
+    <img src="https://img.shields.io/badge/-Demo-blue?style=for-the-badge&color=E9F6FF" alt="Deploy">
 
     </p>
     <p>This project was done with <strong>JavaScript</strong> apply the function of <strong> Local Storage</strong>I hope you like it! </p>
@@ -194,7 +194,7 @@
     <a href="https://github.com/abrahanalarcon/my_blogcafe" target="_blank">
     <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a>
     <a href="https://roaring-youtiao-af4457.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Deploy-blue?style=for-the-badge&color=E9F6FF" alt="Deploy">
+    <img src="https://img.shields.io/badge/-Demo-blue?style=for-the-badge&color=E9F6FF" alt="Deploy">
     </a>
 
     </p>
