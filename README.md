@@ -23,7 +23,7 @@
     <td width="50%">
     <h3 align="center">🎬 Movies</h3>
      <div align="center">
-    <a href="https://streamingmoviesreact.netlify.app/" target="_blank"><img src="img/18.png" width="400" alt="Movies"></a>
+    <a href="https://streamingmoviesreact.netlify.app/" target="_blank"><img src="img/18.png" width="400" alt="Movies" class="hover-image"></a>
     <p>
     <a href="https://github.com/abrahanalarcon/movies-react" target="_blank">
     <img src="https://img.shields.io/badge/Source-80ffaa?style=for-the-badge&logo=github&logoColor=black" alt="Source" title="Source">
@@ -356,3 +356,9 @@
 
 
   </body>    
+<style>
+    .hover-image:hover {
+        transform: scale(1.2);
+        transition: transform 0.3s ease; /* Optional: Add a smooth transition effect */
+    }
+</style>
