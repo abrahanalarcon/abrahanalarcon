@@ -23,7 +23,7 @@
     <td width="50%">
     <h3 align="center">🎬 Movies</h3>
      <div align="center">
-    <a href="https://streamingmoviesreact.netlify.app/" target="_blank"><img src="img/18.png" width="400" alt="Movies" style="hover:transform: scale(1.2);"></a>
+    <a href="https://streamingmoviesreact.netlify.app/" target="_blank"  style="hover:transform: scale(1.2);"><img src="img/18.png" width="400" alt="Movies" ></a>
     <p>
     <a href="https://github.com/abrahanalarcon/movies-react" target="_blank">
     <img src="https://img.shields.io/badge/Source-80ffaa?style=for-the-badge&logo=github&logoColor=black" alt="Source" title="Source">
