@@ -41,7 +41,7 @@
      <br>
     <h3 align="center">🐕Citas-React</h3>
     <div align="center">                                       
-    <a href="https://citasreactvet.netlify.app/" target="_blank"><img src="img/14.png" width="400" alt="Freelancer Page"></a>
+    <a href="https://citasreactvet.netlify.app/" target="_blank"><img src="img/19.png" width="400" alt="Freelancer Page"></a>
     <br>
 
     <p>
@@ -64,7 +64,7 @@
     <td width="50%">
     <h3 align="center">Validation Email</h3>
      <div align="center">
-    <a href="https://effulgent-taiyaki-045932.netlify.app/" target="_blank"><img src="img/19.png" width="400" alt="blog cafe"></a>
+    <a href="https://effulgent-taiyaki-045932.netlify.app/" target="_blank"><img src="img/6.png" width="400" alt="blog cafe"></a>
     <p>
     <a href="https://github.com/abrahanalarcon/Validation-Email" target="_blank">
     <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a>
