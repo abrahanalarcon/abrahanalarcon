@@ -39,15 +39,15 @@
     
     <td width="50%">
      <br>
-    <h3 align="center">🐕Citas-React</h3>
+    <h3 align="center">Cryptocurrencies</h3>
     <div align="center">                                       
     <a href="https://citasreactvet.netlify.app/" target="_blank"><img src="img/19.png" width="400" alt="Freelancer Page"></a>
     <br>
 
     <p>
-    <a href="https://citasreactvet.netlify.app/" target="_blank">
+    <a href="https://excryptocurrenciesreact.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-     <a href="https://github.com/abrahanalarcon/movies-react" target="_blank">
+     <a href="https://github.com/abrahanalarcon/criptos-react" target="_blank">
     <img src="https://img.shields.io/badge/-Demo-blue?style=for-the-badge&color=E9F6FF" alt="Deploy">
     </a>
     </p>
