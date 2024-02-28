@@ -53,7 +53,8 @@
     </a>
     </p>
 
-    <p>This was a similar form with react and tailwind</p>
+    <p>On this project I used Styled Components and created my first hook,get the Api here:
+    <a href="https://min-api.cryptocompare.com/data/top/mktcapfull?limit=20&tsym=USD" target="_blank">Crytocurrency's</a></p>
     </div>                                                             
     </table>                                                                                 
     </div>
