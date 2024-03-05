@@ -42,7 +42,7 @@
      <br>
     <h3 align="center">Cryptocurrencies</h3>
     <div align="center">                                       
-    <a href="https://citasreactvet.netlify.app/" target="_blank"><img src="img/19.png" width="400" alt="Freelancer Page"></a>
+    <a href="https://excryptocurrenciesreact.netlify.app/" target="_blank"><img src="img/19.png" width="400" alt="Freelancer Page"></a>
     <br>
 
     <p>
@@ -59,7 +59,7 @@
     </table>                                                                                 
     </div>
     <br>
-    
+
     ## JavaScript + React⚛️
 
     <table>
