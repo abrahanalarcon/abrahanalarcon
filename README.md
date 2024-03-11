@@ -42,13 +42,13 @@
      <br>
     <h3 align="center">Cryptocurrencies</h3>
     <div align="center">                                       
-    <a href="https://excryptocurrenciesreact.netlify.app/" target="_blank"><img src="img/19.png" width="400" alt="Freelancer Page"></a>
+    <a href="https://github.com/abrahanalarcon/criptos-react" target="_blank"><img src="img/19.png" width="400" alt="Freelancer Page"></a>
     <br>
 
     <p>
     <a href="https://excryptocurrenciesreact.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Source-80ffaa?style=for-the-badge&logo=github&logoColor=black" alt="Source" title="Source"><a/>
-     <a href="https://github.com/abrahanalarcon/criptos-react" target="_blank">
+     <a href="https://excryptocurrenciesreact.netlify.app/"" target="_blank">
     <img src="https://img.shields.io/badge/-Demo-blue?style=for-the-badge&color=E9F6FF" alt="Deploy">
     </a>
     </p>
@@ -221,6 +221,8 @@
     <img src="https://img.shields.io/badge/-Demo-blue?style=for-the-badge&color=E9F6FF" alt="Deploy">
 
     </p>
+    <p>To see if my page is responsive I use
+    <a href="https://responsively.app/sponsor?utm_source=app&utm_medium=app-banner&utm_campaign=sponsor&utm_term=ignite-innovation" target="_blank">Responsively</a></p>
    
     </div>
   
