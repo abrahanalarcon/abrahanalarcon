@@ -11,6 +11,8 @@
  - 🌍 From Santo Domingo,Republica Dominicana.
  - 💼 I work as a Project and Automation Engineer
  - 🎓 I studied Mechatronics🤖🦾 and I am currently working as a Web programmer.
+   <p>
+    <a href="https://moisesahportofolio.netlify.app/" target="_blank">My personal Portofolio</a></p>
 
      <br>
     
