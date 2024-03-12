@@ -31,12 +31,12 @@
      <div align="center">
     <a href="https://streamingmoviesreact.netlify.app/" target="_blank"  style="hover:transform: scale(1.2);"><img src="img/18.png" width="400" alt="Movies" ></a>
     <p>
-    <a href="https://streamingmoviesreact.netlify.app/" target="_blank">
+    <a href="https://github.com/abrahanalarcon/movies-react" target="_blank">
     <img src="https://img.shields.io/badge/Source-80ffaa?style=for-the-badge&logo=github&logoColor=black" alt="Source" title="Source">
     </a>
-    <a href="https://github.com/abrahanalarcon/movies-react" target="_blank">
+    <a href="https://streamingmoviesreact.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Demo-blue?style=for-the-badge&color=E9F6FF" alt="Deploy">
-     <a href="https://streamingmoviesreact.netlify.app/" target="_blank">
+     <a href="https://github.com/abrahanalarcon/movies-react/blob/main/README.md" target="_blank">
       <img src="https://img.shields.io/badge/ReadME-6c757d?style=for-the-badge" alt="ReadME" title="ReadME">
      </a>
    </p>
