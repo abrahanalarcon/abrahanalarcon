@@ -19,13 +19,13 @@
 
  <img src="img/8.png">
 
-     <br>
+<br>
     
    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
     <br>
      ## React + API's
 
-    <table>
+   <table>
     <tr>
     <td width="50%">
     <h3 align="center">🎬 Movies</h3>
@@ -42,17 +42,17 @@
     </div>
    
                                                                                           
-    </td> 
+ </td> 
   
     
-    <td width="50%">
+<td width="50%">
      <br>
     <h3 align="center">Cryptocurrencies</h3>
     <div align="center">                                       
     <a href="https://github.com/abrahanalarcon/criptos-react" target="_blank"><img src="img/19.png" width="400" alt="Freelancer Page"></a>
     <br>
 
-    <p>
+ <p>
     <a href="https://excryptocurrenciesreact.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Source-80ffaa?style=for-the-badge&logo=github&logoColor=black" alt="Source" title="Source"><a/>
      <a href="https://excryptocurrenciesreact.netlify.app/"" target="_blank">
@@ -60,16 +60,16 @@
     </a>
     </p>
 
-    <p>On this project I used Styled Components and created my first hook,get the Api here:
+<p>On this project I used Styled Components and created my first hook,get the Api here:
     <a href="https://min-api.cryptocompare.com/data/top/mktcapfull?limit=20&tsym=USD" target="_blank">Crytocurrency's</a></p>
     </div>                                                             
     </table>                                                                                 
     </div>
     <br>
 
-    ## JavaScript + React⚛️
+ ## JavaScript + React⚛️
 
-    <table>
+ <table>
     <tr>
     <td width="50%">
     <h3 align="center">Validation Email</h3>
@@ -85,17 +85,17 @@
     </div>
    
                                                                                           
-    </td> 
+ </td> 
   
     
-    <td width="50%">
+<td width="50%">
      <br>
     <h3 align="center">🐕Citas-React</h3>
     <div align="center">                                       
     <a href="https://citasreactvet.netlify.app/" target="_blank"><img src="img/14.png" width="400" alt="Freelancer Page"></a>
     <br>
 
-    <p>
+ <p>
     <a href="https://citasreactvet.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Source-80ffaa?style=for-the-badge&logo=github&logoColor=black" alt="Source" title="Source"><a/>
      <a href="https://citasreactvet.netlify.app/" target="_blank">
@@ -103,13 +103,13 @@
     </a>
     </p>
 
-    <p>This was a similar form with react and tailwind</p>
+<p>This was a similar form with react and tailwind</p>
     </div>                                                             
     </table>                                                                                 
     </div>
     <br>
 
-    <table>
+<table>
     <tr>
     <td width="50%">
     <h3 align="center">Weekly Expense</h3>
@@ -125,17 +125,17 @@
     </div>
    
                                                                                           
-    </td> 
+  </td> 
   
     
-    <td width="50%">
+ <td width="50%">
      <br>
     <h3 align="center">Control de Gastos</h3>
     <div align="center">                                       
     <a href="https://ubiquitous-begonia-92e5e9.netlify.app/" target="_blank"><img src="img/17.png" width="400" alt="Freelancer Page"></a>
     <br>
 
-    <p>
+ <p>
     <a href="https://github.com/abrahanalarcon/control-gastos" target="_blank">
     <img src="https://img.shields.io/badge/Source-80ffaa?style=for-the-badge&logo=github&logoColor=black" alt="Source" title="Source"><a/>
      <a href="https://ubiquitous-begonia-92e5e9.netlify.app/" target="_blank">
@@ -143,15 +143,15 @@
     </a>
     </p>
 
-    <p>This was a similar form with react and tailwind</p>
+ <p>This was a similar form with react and tailwind</p>
     </div>                                                             
     </table>                                                                                 
     </div>
     <br>
 
-    ## JavaScript 
+ ## JavaScript 
     
-    <table>
+ <table>
     <tr>
     <td width="50%">
     <h3 align="center">Suits</h3>
@@ -164,15 +164,15 @@
     <img src="https://img.shields.io/badge/-Demo-blue?style=for-the-badge&color=E9F6FF" alt="Deploy">
     </a>
 
-    </p>
+  </p>
     <p>This is one of my favorite projects <strong>with HTML, CSS PLAIN and JavaScript</strong> </p>
     </div>
     </div>
                                                                                           
-    </td>
+ </td>
           
     
-    <td width="50%">
+ <td width="50%">
     <h3 align="center">Online Courses</h3>
      <div align="center">
     <a href="https://beamish-selkie-30615b.netlify.app/#" target="_blank"><img src="img/5.png" width="400" alt="Suits"></a>
@@ -182,19 +182,19 @@
       <a href="https://beamish-selkie-30615b.netlify.app/#" target="_blank">
     <img src="https://img.shields.io/badge/-Demo-blue?style=for-the-badge&color=E9F6FF" alt="Deploy">
 
-    </p>
+  </p>
     <p>This project was done with <strong>JavaScript</strong> apply the function of <strong> Local Storage</strong>I hope you like it! </p>
     </div>
   
                                                                                           
-    </td>  
+ </td>  
     </table>                                                                                 
     </div>
     <br>
 
-     ## Vanilla 
+ ## Vanilla 
     
-    <table>
+ <table>
     <tr>
     <td width="50%">
     <h3 align="center">Coffee Blog</h3>
@@ -208,16 +208,16 @@
     <img src="https://img.shields.io/badge/-Demo-blue?style=for-the-badge&color=E9F6FF" alt="Deploy">
     </a>
 
-    </p>
+ </p>
     <p>This is one of my favorite project in <strong> Vanilla </strong> to se the perfomance of my web pages I use 
     <a href="https://chromewebstore.google.com/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=es" target="_blank">Lighthouse</a></p>
     </div>
     </div>
                                                                                           
-    </td>
+</td>
           
     
-    <td width="50%">
+  <td width="50%">
     <h3 align="center">Freelancer Page</h3>
      <div align="center">
     <a href="https://taupe-valkyrie-fb7011.netlify.app/" target="_blank"><img src="img/3.png" width="400" alt="Suits"></a>
@@ -228,14 +228,14 @@
     <a href="https://taupe-valkyrie-fb7011.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Demo-blue?style=for-the-badge&color=E9F6FF" alt="Deploy">
 
-    </p>
+ </p>
     <p>To see if my page is responsive I use
     <a href="https://responsively.app/sponsor?utm_source=app&utm_medium=app-banner&utm_campaign=sponsor&utm_term=ignite-innovation" target="_blank">Responsively</a></p>
    
-    </div>
+ </div>
   
                                                                                           
-    </td>  
+ </td>  
     </table>                                                                                 
     </div>
     <br>
@@ -249,7 +249,7 @@
   
 
      
-    <p align="center">  
+ <p align="center">  
      👁️ You can see more projects at:
     <a href="https://codepen.io/abrahanalarcon" target="_blank">CODEPEN</a>
     </p>
@@ -259,7 +259,7 @@
 
 
    ## C#
-     <table>
+   <table>
     <tr>
     <td width="50%">
     <h3 align="center">Bank Account</h3>
@@ -270,17 +270,17 @@
     <img src="https://img.shields.io/badge/Source-80ffaa?style=for-the-badge&logo=github&logoColor=black" alt="Source" title="Source"></a>
     </p>
     
-    <p>This project was done a long time ago to acquire basic knowledge about the concepts that
+  <p>This project was done a long time ago to acquire basic knowledge about the concepts that
       It is a class, which is an object, a method and an inheritance.</p>
     </div>
     </div>
                                                                                           
     </td>
 
-     ## Projects with C  in Mechatronics
+ ## Projects with C  in Mechatronics
     
     
-    <table>
+ <table>
     <tr>
     <td width="50%">
     <h3 align="center">Game Boy</h3>
@@ -290,19 +290,19 @@
     <a href="https://drive.google.com/drive/folders/1wAB7-M_SvX_0A82jN-v0WnZzmpE4-Lzk?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/Source-80ffaa?style=for-the-badge&logo=github&logoColor=black" alt="Source" title="Source">
 
-    </a>
+  </a>
     <a href="https://drive.google.com/file/d/1P6GRvtjC3UCkgcIF_sGjqEdTRFt9zxjI/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/-Google Drive-blue?style=for-the-badge&color=4285F4&logo=google-drive&logoColor=white">
     </a>
     </p>
     
-    <p>This is one of my favorite projects, <strong>it is a kind of Atari game with two modules,</strong> I used a joystick, a speaker, and an LED matrix. This project was with <a href="https://www.st.com/en/development-tools/stm32cubeide.html" target="_blank">the stm32cubeide IDE</a></p>
+  <p>This is one of my favorite projects, <strong>it is a kind of Atari game with two modules,</strong> I used a joystick, a speaker, and an LED matrix. This project was with <a href="https://www.st.com/en/development-tools/stm32cubeide.html" target="_blank">the stm32cubeide IDE</a></p>
     </div>
     </div>
                                                                                           
-    </td>
+  </td>
     
-    <td width="50%">
+  <td width="50%">
      <br>
     <h3 align="center">Avoiding Obstacle Robot </h3>
     <div align="center">                                       
@@ -312,11 +312,10 @@
     <a href="https://drive.google.com/drive/folders/1KsrOZYiIOv19Ww4PmzuIddCSfq8zqjBk?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/-Google Drive-blue?style=for-the-badge&color=4285F4&logo=google-drive&logoColor=white">
 
-
-    </a>
+   </a>
     </p>
     
-    <p>This is one of my favorite projects, <strong>it is a kind of Atari game with two modules,</strong> I used a joystick, a speaker, and an LED matrix. This project was with <a href="https://www.st.com/en/development-tools/stm32cubeide.html" target="_blank">the stm32cubeide IDE</a></p>
+  <p>This is one of my favorite projects, <strong>it is a kind of Atari game with two modules,</strong> I used a joystick, a speaker, and an LED matrix. This project was with <a href="https://www.st.com/en/development-tools/stm32cubeide.html" target="_blank">the stm32cubeide IDE</a></p>
     </div>                                                             
     </table>                                                                                 
     </div>
