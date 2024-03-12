@@ -202,7 +202,8 @@
     </a>
 
     </p>
-    <p>This is one of my favorite project in <strong> Vanilla </strong></p>
+    <p>This is one of my favorite project in <strong> Vanilla </strong> to se the perfomance of my web pages I use 
+    <a href="https://chromewebstore.google.com/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=es" target="_blank">Lighthouse</a></p>
     </div>
     </div>
                                                                                           
