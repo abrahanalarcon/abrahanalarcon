@@ -2,6 +2,7 @@
  <h1 align="center">Hello, I am <a href="https://moisesahportofolio.netlify.app/">Moises Alarcon</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
     </div>
         <br><br>
+   <img src="img/8.png">
 
 
 
@@ -12,12 +13,10 @@
  - 💼 I work as a Project and Automation Engineer
  - 🎓 I studied Mechatronics🤖🦾 and I am currently working as a Web programmer.
   
-    <div align="center">
-    <h1 align="center">Personal<a href="https://moisesahportofolio.netlify.app/">Portafolio</a></h1>
-    </div>
+   
 
 
- <img src="img/8.png">
+ 
 
 <br>
     
