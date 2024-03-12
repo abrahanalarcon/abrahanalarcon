@@ -12,6 +12,9 @@
  - 💼 I work as a Project and Automation Engineer
  - 🎓 I studied Mechatronics🤖🦾 and I am currently working as a Web programmer.
 
+
+ <img src="img/8.png">
+
      <br>
     
    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
