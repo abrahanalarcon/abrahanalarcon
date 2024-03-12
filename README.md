@@ -36,7 +36,10 @@
     </a>
     <a href="https://github.com/abrahanalarcon/movies-react" target="_blank">
     <img src="https://img.shields.io/badge/-Demo-blue?style=for-the-badge&color=E9F6FF" alt="Deploy">
-    </p>
+     <a href="https://streamingmoviesreact.netlify.app/" target="_blank">
+      <img src="https://img.shields.io/badge/ReadME-6c757d?style=for-the-badge" alt="ReadME" title="ReadME">
+     </a>
+   </p>
     <p>One of my favorites Projects </p>
     </div>
    
