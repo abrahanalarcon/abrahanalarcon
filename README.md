@@ -250,7 +250,7 @@
      
  <p align="center">  
      👁️ You can see more projects at:
-    <a href="https://codepen.io/abrahanalarcon" target="_blank">CODEPEN</a>
+    <a href="https://codepen.io/abrahanalarcon" target="_blank" align="center">CODEPEN</a>
     </p>
     <img src="https://scontent.fhex3-1.fna.fbcdn.net/v/t1.18169-9/11987068_439074989630521_7907475566801370427_n.png?_nc_cat=109&ccb=1-7&_nc_sid=300f58&_nc_eui2=AeFulAUoa8aYCa9pjhJXg6ZaNE1V5TQuICg0TVXlNC4gKJxzwxqVe4l6gKUgCmJC3wgoUVUbghl7onRgABd6YYwP&_nc_ohc=UbuselVIuFgAX_ezc9J&_nc_ht=scontent.fhex3-1.fna&oh=00_AfApWtPEsG48_gfXXAWkN_pe1uJFtka5iKYW-tnVXe0z3g&oe=65FEEA78">
        
