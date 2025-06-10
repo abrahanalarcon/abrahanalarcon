@@ -260,24 +260,7 @@
     
 
 
-   ## C#
-   <table>
-    <tr>
-    <td width="50%">
-    <h3 align="center">Bank Account</h3>
-    <div align="center">
-    <a href="https://drive.google.com/file/d/1P6GRvtjC3UCkgcIF_sGjqEdTRFt9zxjI/view?usp=drive_link" target="_blank"><img src="img/15.png" width="400" alt="Suits"></a>
-    <p>
-     <a href="https://github.com/abrahanalarcon/mi_cuenta" target="_blank">
-     <img src="https://img.shields.io/badge/Source-80ffaa?style=for-the-badge&logo=github&logoColor=black" alt="Source" title="Source"></a>
-    </p>
-    
- <p>This project was done a long time ago to acquire basic knowledge about the concepts that
-      It is a class, which is an object, a method and an inheritance.</p>
-    </div>
-    </div>
-                                                                                          
-   </td>
+  
 
  ## Projects with C  in Mechatronics
     
