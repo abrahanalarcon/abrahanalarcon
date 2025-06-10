@@ -10,7 +10,7 @@
 ## About me
     
  - 🌍 From Santo Domingo,Republica Dominicana.
- - 💼 I work as a Project and Automation Engineer
+ - 💼 I work as a IT/OT engineer
  - 🎓 I studied Mechatronics🤖🦾 and I am currently working in differents IT areas.
   
    
