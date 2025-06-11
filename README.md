@@ -20,7 +20,7 @@
 
 <br>
     
-   <img src="https://moisesportafolioreact.netlify.app/assets/Moises-DKYRErBr.png" alt="Moises" width="300" style="margin-top: 30px; display: block; margin-left: auto; margin-right: auto;" />
+  
     <br>
 
 
@@ -28,7 +28,7 @@
 <div>
 <br>
 <br>
-<img align="right" width="400" alt="Shimarin" src="https://moisesportafolioreact.netlify.app/assets/Moises-DKYRErBr.png"/>
+<img src="https://moisesportafolioreact.netlify.app/assets/Moises-DKYRErBr.png" alt="Moises" width="300" style="margin-top: 30px; display: block; margin-left: auto; margin-right: auto;" />
 
 
   
