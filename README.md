@@ -70,7 +70,7 @@
   </br></br>
   
 <div align="right">
-<a href="https://moisesportafolioreact.netlify.app/assets/Moises-DKYRErBr.png">Image by 前髪</a>
+<a href="https://moisesportafolioreact.netlify.app/assets/Moises-DKYRErBr.png"></a>
   </div>
   </div>
 
