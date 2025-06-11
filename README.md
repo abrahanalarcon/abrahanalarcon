@@ -69,9 +69,9 @@
     ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
   </br></br>
-  
-<div align="right">
-<a href="https://moisesportafolioreact.netlify.app/assets/Moises-DKYRErBr.png">Image by 前髪</a>
+
+  <div align="right">
+      <a href="https://moisesportafolioreact.netlify.app/assets/Moises-DKYRErBr.png">Image by 前髪</a>
   </div>
 
 ## React + API's
