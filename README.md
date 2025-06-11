@@ -26,7 +26,8 @@
 
 
 <div>
-
+<br>
+<br>
 <img align="right" width="400" alt="Shimarin" src="https://moisesportafolioreact.netlify.app/assets/Moises-DKYRErBr.png"/>
 
 
