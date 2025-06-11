@@ -75,7 +75,7 @@
   </div>
   </div>
  <div align="right">
-  <img src="https://moisesportafolioreact.netlify.app/assets/Moises-DKYRErBr.png" alt="Moises" width="300" style="margin-top: 30px; display: block; margin-left: auto; margin-right: auto;" />
+  <img src="https://moisesportafolioreact.netlify.app/assets/Moises-DKYRErBr.png" alt="Moises" width="300" style=" display: block; margin-left: auto; margin-right: auto;" />
 </div>
 
 ## React + API's
