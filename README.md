@@ -73,7 +73,7 @@
 <div align="right">
   <img src="https://moisesportafolioreact.netlify.app/assets/Moises-DKYRErBr.png" alt="Image by 前髪" style="max-width: 300px;" />
   <br />
-  <a href="https://moisesportafolioreact.netlify.app/assets/Moises-DKYRErBr.png">Image by 前髪</a>
+  
 </div>
 
 
