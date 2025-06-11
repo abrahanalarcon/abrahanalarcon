@@ -71,12 +71,9 @@
   </br></br>
   
 <div align="right">
-<a href="https://moisesportafolioreact.netlify.app/assets/Moises-DKYRErBr.png"></a>
+<a href="https://moisesportafolioreact.netlify.app/assets/Moises-DKYRErBr.png">Image by 前髪</a>
   </div>
   </div>
- <div align="right">
-  <img src="https://moisesportafolioreact.netlify.app/assets/Moises-DKYRErBr.png" alt="Moises" width="300" style=" display: block; margin-left: auto; margin-right: auto;" />
-</div>
 
 ## React + API's
 
