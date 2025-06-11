@@ -271,13 +271,13 @@
     <td width="50%">
     <h3 align="center">Game Boy</h3>
 <div align="center">
-    <a href="[https://drive.google.com/file/d/1P6GRvtjC3UCkgcIF_sGjqEdTRFt9zxjI/view?usp=drive_link](https://drive.google.com/file/d/1N2rT0_z09XyZsWMHNTz0_fk9kC2ZHI31/view?usp=sharing)" target="_blank"><img src="img/Game Boy.jpg" width="400" alt="Suits"></a>
+    <a href="https://drive.google.com/file/d/1N2rT0_z09XyZsWMHNTz0_fk9kC2ZHI31/view?usp=sharing" target="_blank"><img src="img/Game Boy.jpg" width="400" alt="Suits"></a>
     <p>
-    <a href="[https://drive.google.com/drive/folders/1wAB7-M_SvX_0A82jN-v0WnZzmpE4-Lzk?usp=drive_link](https://photos.app.goo.gl/32G1nKG4KmD8WS529)" target="_blank">
+    <a href="https://drive.google.com/file/d/1N2rT0_z09XyZsWMHNTz0_fk9kC2ZHI31/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Source-80ffaa?style=for-the-badge&logo=github&logoColor=black" alt="Source" title="Source">
 
   </a>
-    <a href="https://drive.google.com/file/d/1P6GRvtjC3UCkgcIF_sGjqEdTRFt9zxjI/view?usp=drive_link" target="_blank">
+    <a href="https://drive.google.com/file/d/1N2rT0_z09XyZsWMHNTz0_fk9kC2ZHI31/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/-Google Drive-blue?style=for-the-badge&color=4285F4&logo=google-drive&logoColor=white">
     </a>
     </p>
