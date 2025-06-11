@@ -73,7 +73,6 @@
 <div align="right">
 <a href="https://moisesportafolioreact.netlify.app/assets/Moises-DKYRErBr.png">Image by 前髪</a>
   </div>
-  </div>
 
 ## React + API's
 
