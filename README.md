@@ -320,7 +320,7 @@
  <table>
     <tr>
     <td width="50%">
-    <h3 align="center">Game Boy</h3>
+    <h3 align="center">Pong Game</h3>
 <div align="center">
     <a href="https://drive.google.com/file/d/1N2rT0_z09XyZsWMHNTz0_fk9kC2ZHI31/view?usp=sharing" target="_blank"><img src="img/Game Boy.jpg" width="400" alt="Suits"></a>
     <p>
@@ -333,7 +333,7 @@
     </a>
     </p>
     
- <p>This is one of my favorite projects, <strong>it is a kind of Atari game with two modules,</strong> I used a joystick, a speaker, and an LED matrix. This project was with <a href="https://www.st.com/en/development-tools/stm32cubeide.html" target="_blank">the stm32cubeide IDE</a></p>
+ <p>This is one of my favorite projects, <strong>it is a kind of Pong game with two modules,</strong> I used a joystick, a speaker, and an LED matrix. This project was with <a href="https://www.st.com/en/development-tools/stm32cubeide.html" target="_blank">the stm32cubeide IDE</a></p>
     </div>
     </div>
                                                                                           
