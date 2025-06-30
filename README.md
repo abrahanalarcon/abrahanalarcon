@@ -305,8 +305,27 @@
     </p>
     <img 
      src="https://scontent.fhex3-1.fna.fbcdn.net/v/t1.18169-9/11987068_439074989630521_7907475566801370427_n.png?_nc_cat=109&ccb=17&_nc_sid=300f58&_nc_eui2=AeFulAUoa8aYCa9pjhJXg6ZaNE1V5TQuICg0TVXlNC4gKJxzwxqVe4l6gKUgCmJC3wgoUVUbghl7onRgABd6YYwP&_nc_ohc=UbuselVIuFgAX_ezc9J&_nc_ht=scontent.fhex3-1.fna&oh=00_AfApWtPEsG48_gfXXAWkN_pe1uJFtka5iKYW-tnVXe0z3g&oe=65FEEA78">
-       
-    
+     
+ ## Projects Maui Multipltaform     
+ 
+<table>
+ <tr>
+    <td width="50%">
+    <h3 align="center">Validation Email</h3>
+     <div align="center">
+    <a href="https://effulgent-taiyaki-045932.netlify.app/" target="_blank"><img src="img/6.png" width="400" alt="blog cafe"></a>
+    <p>
+    <a href="https://github.com/abrahanalarcon/Validation-Email" target="_blank">
+    <img src="https://img.shields.io/badge/Source-80ffaa?style=for-the-badge&logo=github&logoColor=black" alt="Source" title="Source"></a>
+    <a href="https://effulgent-taiyaki-045932.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Demo-blue?style=for-the-badge&color=E9F6FF" alt="Deploy">
+    </p>
+    <p>This project was done with <strong>Tailwind and JavaScript</strong>I hope you like it! </p>
+    </div>
+   
+                                                                                          
+ </td> 
+</table>   
 
 
   
