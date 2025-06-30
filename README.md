@@ -312,7 +312,7 @@
     <td width="50%">
     <h3 align="center">Pokedex</h3>
      <div align="center">
-    <a href="https://effulgent-taiyaki-045932.netlify.app/" target="_blank"><img src="https://i.pinimg.com/736x/46/f0/d2/46f0d2898e6573ea55e9ccf8e08112bd.jpg" width="400" alt="blog cafe"></a>
+    <a href="..............." target="_blank"><img src="https://i.pinimg.com/736x/b4/97/f0/b497f08be3054067507896cdbba4a77c.jpg" width="400" alt="blog cafe"></a>
     <p>
     <a href="https://drive.google.com/file/d/12MRu_WeLNPf8vV4Ykd8g7-ryG1WHYauP/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/-Google Drive-blue?style=for-the-badge&color=4285F4&logo=google-drive&logoColor=white">
