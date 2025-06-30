@@ -305,7 +305,7 @@
     </p>
    
      
- ## Projects Maui Multipltaform     
+ ## Projects Maui Multipltaform,Andorid,IOS
  
 <table>
  <tr>
