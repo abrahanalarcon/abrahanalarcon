@@ -310,16 +310,20 @@
 <table>
  <tr>
     <td width="50%">
-    <h3 align="center">Validation Email</h3>
+    <h3 align="center">Pokedex</h3>
      <div align="center">
     <a href="https://effulgent-taiyaki-045932.netlify.app/" target="_blank"><img src="https://i.pinimg.com/736x/46/f0/d2/46f0d2898e6573ea55e9ccf8e08112bd.jpg" width="400" alt="blog cafe"></a>
     <p>
+    <a href="https://drive.google.com/file/d/12MRu_WeLNPf8vV4Ykd8g7-ryG1WHYauP/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/-Google Drive-blue?style=for-the-badge&color=4285F4&logo=google-drive&logoColor=white">
+
+   </a>
     <a href="https://github.com/abrahanalarcon/Validation-Email" target="_blank">
     <img src="https://img.shields.io/badge/Source-80ffaa?style=for-the-badge&logo=github&logoColor=blac" alt="Source" title="Source"></a>
     <a href="https://effulgent-taiyaki-045932.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Demo-blue?style=for-the-badge&color=E9F6FF" alt="Deploy">
     </p>
-    <p>This project was done with <strong>Tailwind and JavaScript</strong>I hope you like it! </p>
+    <p>Explore the creation of an interactive and efficient Pokedex, leveraging the power of .NET MAUI to deliver a unified experience across all platforms. More than 1,000 Pokémon are available upon initial release.</p>
     </div>
    
                                                                                           
