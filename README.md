@@ -353,6 +353,24 @@
             <img src="https://img.shields.io/badge/Ver%20código-0077B5?style=for-the-badge&logo=github&logoColor=white">
           </a>
         </li>
+        <li>
+          <strong>Proyecto A - Login App</strong><br>
+          <a href="https://github.com/usuario/proyecto-login" target="_blank">
+            <img src="https://img.shields.io/badge/Ver%20código-0077B5?style=for-the-badge&logo=github&logoColor=white">
+          </a>
+        </li>
+        <li>
+          <strong>Proyecto B - API REST</strong><br>
+          <a href="https://github.com/usuario/api-rest" target="_blank">
+            <img src="https://img.shields.io/badge/Ver%20código-0077B5?style=for-the-badge&logo=github&logoColor=white">
+          </a>
+        </li>
+        <li>
+          <strong>Proyecto C - UI con MAUI</strong><br>
+          <a href="https://github.com/usuario/ui-maui" target="_blank">
+            <img src="https://img.shields.io/badge/Ver%20código-0077B5?style=for-the-badge&logo=github&logoColor=white">
+          </a>
+        </li>
       </ul>
     </td>
   </tr>
