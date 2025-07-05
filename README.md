@@ -336,38 +336,26 @@
       <h3 align="center">Maui Projects</h3>
       <ul>
         <li>
-          <strong>Proyecto A - Login App</strong><br>
-          <a href="https://github.com/usuario/proyecto-login" target="_blank">
+          <strong>Clon Spotify/strong><br>
+          <a href="https://github.com/abrahanalarcon/Clon-Spotify" target="_blank">
             <img src="https://img.shields.io/badge/Ver%20código-0077B5?style=for-the-badge&logo=github&logoColor=white">
           </a>
         </li>
         <li>
-          <strong>Proyecto B - API REST</strong><br>
-          <a href="https://github.com/usuario/api-rest" target="_blank">
+          <strong>NewsApp</strong><br>
+          <a href="https://github.com/abrahanalarcon/NewsApp" target="_blank">
             <img src="https://img.shields.io/badge/Ver%20código-0077B5?style=for-the-badge&logo=github&logoColor=white">
           </a>
         </li>
         <li>
-          <strong>Proyecto C - UI con MAUI</strong><br>
-          <a href="https://github.com/usuario/ui-maui" target="_blank">
+          <strong>Profile User</strong><br>
+          <a href="https://github.com/abrahanalarcon/ProfileUser" target="_blank">
             <img src="https://img.shields.io/badge/Ver%20código-0077B5?style=for-the-badge&logo=github&logoColor=white">
           </a>
         </li>
         <li>
-          <strong>Proyecto A - Login App</strong><br>
-          <a href="https://github.com/usuario/proyecto-login" target="_blank">
-            <img src="https://img.shields.io/badge/Ver%20código-0077B5?style=for-the-badge&logo=github&logoColor=white">
-          </a>
-        </li>
-        <li>
-          <strong>Proyecto B - API REST</strong><br>
-          <a href="https://github.com/usuario/api-rest" target="_blank">
-            <img src="https://img.shields.io/badge/Ver%20código-0077B5?style=for-the-badge&logo=github&logoColor=white">
-          </a>
-        </li>
-        <li>
-          <strong>Proyecto C - UI con MAUI</strong><br>
-          <a href="https://github.com/usuario/ui-maui" target="_blank">
+          <strong>To DO App</strong><br>
+          <a href="https://github.com/abrahanalarcon/ToDoApp" target="_blank">
             <img src="https://img.shields.io/badge/Ver%20código-0077B5?style=for-the-badge&logo=github&logoColor=white">
           </a>
         </li>
