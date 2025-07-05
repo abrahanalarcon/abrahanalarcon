@@ -7,7 +7,7 @@
 
 
     
-## About me
+## 🧑‍💻 About me
     
  - 🌍 From Santo Domingo,Republica Dominicana.
  - 💼 I work as a IT/OT engineer
