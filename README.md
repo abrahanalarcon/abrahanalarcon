@@ -158,21 +158,21 @@ Technologies:
 <table>
 <tr>
 <td width="50%">
-<img src="img/control-room.jpg" width="100%">
+<img src="img/20.jfif" width="100%">
 </td>
 
 <td width="50%">
-<img src="img/power-plant.jpg" width="100%">
+<img src="img/21.jfif" width="100%">
 </td>
 </tr>
 
 <tr>
 <td width="50%">
-<img src="img/field-work.jpg" width="100%">
+<img src="img/22.jfif" width="100%">
 </td>
 
 <td width="50%">
-<img src="img/scada-panels.jpg" width="100%">
+<img src="img/23.jfif" width="100%">
 </td>
 </tr>
 
