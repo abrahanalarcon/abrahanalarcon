@@ -178,11 +178,11 @@ Technologies:
 
 <tr>
 <td width="50%">
-<img src="img/instrument.jpg" width="100%">
+<img src="img/24.jpg" width="100%">
 </td>
 
 <td width="50%">
-<img src="img/solar.jpg" width="100%">
+<img src="img/25.jfif" width="100%">
 </td>
 </tr>
 </table>
