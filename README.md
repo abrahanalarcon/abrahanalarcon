@@ -149,6 +149,42 @@ Technologies:
 
 </tr>
 </table>
+## 🏭 Electrical Instrumentation Experience
 
+<p align="center">
+3 years of hands-on experience in Industrial Instrumentation, Control Systems and Power Generation.
+</p>
+
+<table>
+<tr>
+<td width="50%">
+<img src="img/control-room.jpg" width="100%">
+</td>
+
+<td width="50%">
+<img src="img/power-plant.jpg" width="100%">
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<img src="img/field-work.jpg" width="100%">
+</td>
+
+<td width="50%">
+<img src="img/scada-panels.jpg" width="100%">
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<img src="img/instrument.jpg" width="100%">
+</td>
+
+<td width="50%">
+<img src="img/solar.jpg" width="100%">
+</td>
+</tr>
+</table>
 
   </body>    
