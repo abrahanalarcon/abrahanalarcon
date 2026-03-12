@@ -157,31 +157,31 @@ Technologies:
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 <img src="img/20.jfif" width="100%">
 </td>
 
-<td width="50%">
+<td width="33%">
 <img src="img/21.jfif" width="100%">
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="33%">
 <img src="img/22.jfif" width="100%">
 </td>
 
-<td width="50%">
+<td width="33%">
 <img src="img/23.jfif" width="100%">
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="33%">
 <img src="img/24.jpg" width="100%">
 </td>
 
-<td width="50%">
+<td width="33%">
 <img src="img/25.jfif" width="100%">
 </td>
 </tr>
