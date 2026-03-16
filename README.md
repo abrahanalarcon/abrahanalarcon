@@ -28,6 +28,8 @@ My goal is to design and implement **reliable SCADA infrastructures that connect
 Department of Information Technology & Innovation
 
 **IT / OT Engineer**
+<h4>DGJP</h4>
+ <p>June 2024 - present</p>
 
 • Administration of industrial IT infrastructure and automation platforms.  
 • Integration between enterprise IT systems and operational technology (OT).  
@@ -36,6 +38,8 @@ Department of Information Technology & Innovation
 • Troubleshooting and optimization of software and network infrastructure.
 
 ### control engineer
+<h4>Ege Haina</h4>
+ <p>September 2021 - May 2024</p>
 
 • Electrical Maintenance Supervisor, Instrumentation and Electromechanical Systems.
 • Collaboration in the operation and monitoring of the power plant within the control room utilizing the SCADA system (WOIS) and the operation of Wescplorer for overseeing Wartsila 50DF engines, turbines, and solar systems. Management of the gas terminal control     systems.
