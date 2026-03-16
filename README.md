@@ -22,6 +22,48 @@
 
 My goal is to design and implement **reliable SCADA infrastructures that connect industrial processes with modern IT systems.**
 
+<h2 align="center">💼 Experience</h2>
+
+<div class="timeline">
+
+<div class="container left">
+  <div class="content">
+    <h3>Software Developer</h3>
+    <h4>VIVA - Trilogy Dominicana</h4>
+    <p>July 2024 - Present</p>
+    <ul>
+      <li>Programming enterprise solutions</li>
+      <li>Internal testing and QA</li>
+      <li>Deployment scripts</li>
+    </ul>
+  </div>
+</div>
+
+<div class="container right">
+  <div class="content">
+    <h3>Frontend Developer</h3>
+    <h4>Signos Framework</h4>
+    <p>June 2023 - July 2024</p>
+    <ul>
+      <li>Web systems development</li>
+      <li>Performance improvement</li>
+      <li>Testing and debugging</li>
+    </ul>
+  </div>
+</div>
+
+<div class="container left">
+  <div class="content">
+    <h3>Freelance Web Developer</h3>
+    <p>2022 - 2023</p>
+    <ul>
+      <li>Landing pages for businesses</li>
+    </ul>
+  </div>
+</div>
+
+</div>
+
 ## ⚙️ SCADA & Industrial Automation
 
 - SCADA Systems
