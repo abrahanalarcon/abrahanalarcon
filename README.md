@@ -24,30 +24,47 @@ My goal is to design and implement **reliable SCADA infrastructures that connect
 
 ## 🏢 Professional Experience
 
-### Dirección General de Jubilación y Pensiones
-Department of Information Technology & Innovation
+<h2 align="center">💼 Experience</h2>
 
-**IT / OT Engineer**
-<h4>DGJP</h4>
- <p>June 2024 - present</p>
+<div class="timeline">
 
-• Administration of industrial IT infrastructure and automation platforms.  
-• Integration between enterprise IT systems and operational technology (OT).  
-• Management and maintenance of internal applications developed in **C#, .NET and SQL Server**.  
-• Support and monitoring of industrial systems and SCADA related environments.  
-• Troubleshooting and optimization of software and network infrastructure.
+<div class="container left">
+  <div class="content">
+    <h3>Software Developer</h3>
+    <h4>VIVA - Trilogy Dominicana</h4>
+    <p>July 2024 - Present</p>
+    <ul>
+      <li>Programming enterprise solutions</li>
+      <li>Internal testing and QA</li>
+      <li>Deployment scripts</li>
+    </ul>
+  </div>
+</div>
 
-### control engineer
-<h4>Ege Haina</h4>
- <p>September 2021 - May 2024</p>
+<div class="container right">
+  <div class="content">
+    <h3>Frontend Developer</h3>
+    <h4>Signos Framework</h4>
+    <p>June 2023 - July 2024</p>
+    <ul>
+      <li>Web systems development</li>
+      <li>Performance improvement</li>
+      <li>Testing and debugging</li>
+    </ul>
+  </div>
+</div>
 
-• Electrical Maintenance Supervisor, Instrumentation and Electromechanical Systems.
-• Collaboration in the operation and monitoring of the power plant within the control room utilizing the SCADA system (WOIS) and the operation of Wescplorer for overseeing Wartsila 50DF engines, turbines, and solar systems. Management of the gas terminal control     systems.
-• Automation, instrumentation, and server configuration; communication networks; Modbus TCP/RTU; Profibus; variable speed drives; PLC-HMI; and Unic operating systems for system integration.
-• Prepare maintenance planning and execution reports utilizing SAP, Microsoft Project, Excel, and Word.
-• Monitoring, calibration, and configuration of flow meters within a Distributed Control System (DCS).
-• Interpret electrical plans, schematics, and diagrams. Engage in maintenance activities within the engine room, substation, and calibration of turbines, boilers, and auxiliary instruments.
+<div class="container left">
+  <div class="content">
+    <h3>Freelance Web Developer</h3>
+    <p>2022 - 2023</p>
+    <ul>
+      <li>Landing pages for businesses</li>
+    </ul>
+  </div>
+</div>
 
+</div>
 
 
 
