@@ -172,25 +172,9 @@ Technologies:
 </td>
 </tr>
 
-<tr>
-<td width="25%">
-<img src="img/22.jfif" width="100%">
-</td>
 
-<td width="25%">
-<img src="img/23.jfif" width="100%">
-</td>
-</tr>
 
-<tr>
-<td width="25%">
-<img src="img/24.jpg" width="100%">
-</td>
 
-<td width="25%">
-<img src="img/25.jfif" width="100%">
-</td>
-</tr>
 </table>
 
   </body>    
