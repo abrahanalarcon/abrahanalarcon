@@ -155,6 +155,7 @@ Technologies:
 
 </tr>
 </table>
+
 ## 🏭 Electrical Instrumentation Experience
 
 <p align="center">
