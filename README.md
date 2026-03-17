@@ -120,7 +120,7 @@ Features:
 
 ### SCADA Network Architecture
 
-<img src="img/23.jfif" height="300" width="400">
+<img src="img/23.jfif" height="600" width="400">
 
 Design of a **secure SCADA network infrastructure** including segmentation between IT and OT environments.
 
