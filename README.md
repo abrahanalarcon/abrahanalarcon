@@ -139,7 +139,7 @@ Technologies:
 
 ### Industrial Monitoring Dashboard
 
-<img src="img/scada-dashboard.png" width="400">
+<img src="img/20.jfif" width="400">
 
 Real-time monitoring interface inspired by SCADA systems for industrial process visualization.
 
