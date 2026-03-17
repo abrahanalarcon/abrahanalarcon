@@ -164,7 +164,7 @@ Technologies:
 <table>
 <tr>
 <td width="25%">
-<img src="img/20.jfif" width="100%">
+<img src="img/24.jpg" width="100%">
 </td>
 
 <td width="25%">
