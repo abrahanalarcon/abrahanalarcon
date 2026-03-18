@@ -165,14 +165,7 @@ Features:
 
 </div>
 
-<div align="center">
- <h1 align="center">
-   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
- Hello, I am 
- <a href="https://moisesahportofolio.netlify.app/">Moises Alarcon</a>
- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
- </h1>
-</div>
+
  
 
 
@@ -241,22 +234,7 @@ Other:
 
 
 
-## 📈 Professional Timeline
-### 🏭 IT / OT Engineer  
-**Industrial Systems & Technology**
 
-- Management and support of industrial IT infrastructure
-- Integration between IT systems and operational technology (OT)
-- Development of internal applications using **C#, .NET and SQL**
-- Support for industrial automation systems
-- Troubleshooting industrial software systems
-
-  ### 💻 Software Developer  
-**Enterprise Systems**
-
-- Development of applications using **C#, .NET and SQL Server**
-- Implementation of internal management systems
-- Support for enterprise software environments
 
 
 
