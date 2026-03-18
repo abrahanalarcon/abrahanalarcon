@@ -20,10 +20,19 @@
 
 IT/OT Engineer with a background in **Mechatronics** and over 3 years of hands-on experience in industrial environments. My focus is on designing and implementing **reliable SCADA infrastructures** that bridge industrial processes with modern IT systems.
 
+- 🌎 Based in **Santo Domingo, Dominican Republic**
 - 🏭 Specialized in **SCADA Systems, Industrial Networks and Automation**
 - 🔒 Experience with **Cybersecurity for OT environments**
 - 🔧 Integrating **software development with industrial systems**
 - 🧠 Passionate about **ICS, Smart Manufacturing and OT/IT convergence**
+- 🏭 **IT/OT Engineer focused on Industrial Automation**
+- ⚡ Specialized in **SCADA Systems, Industrial Networks and Automation**
+- 🤖 Background in **Mechatronics Engineering**
+- 🧠 Passionate about **Industrial Control Systems (ICS), SCADA Architecture and Smart Manufacturing**
+- 🔧 Experience integrating **software development with industrial environments**
+
+My goal is to design and implement **reliable SCADA infrastructures that connect industrial processes with modern IT systems.**
+
 
 ---
 
@@ -172,16 +181,6 @@ Features:
 
 
 
- ## 👨‍💻 About Me
-
-- 🌎 Based in **Santo Domingo, Dominican Republic**
-- 🏭 **IT/OT Engineer focused on Industrial Automation**
-- ⚡ Specialized in **SCADA Systems, Industrial Networks and Automation**
-- 🤖 Background in **Mechatronics Engineering**
-- 🧠 Passionate about **Industrial Control Systems (ICS), SCADA Architecture and Smart Manufacturing**
-- 🔧 Experience integrating **software development with industrial environments**
-
-My goal is to design and implement **reliable SCADA infrastructures that connect industrial processes with modern IT systems.**
 
 
 
