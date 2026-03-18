@@ -156,6 +156,53 @@ Technologies:
 </tr>
 </table>
 
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🏭 SCADA Network Architecture</h3>
+
+<img src="img/23.jfif" width="100%" style="border-radius:12px;">
+
+<p>
+Design of a <b>secure and segmented SCADA network</b> integrating IT and OT layers.
+</p>
+
+<ul>
+<li>Industrial Networking</li>
+<li>Cisco Infrastructure</li>
+<li>Redundant Topology</li>
+<li>SCADA Systems</li>
+</ul>
+
+<a href="#"><b>📄 View Documentation</b></a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>📊 Industrial Monitoring Dashboard</h3>
+
+<img src="img/20.jfif" width="100%" style="border-radius:12px;">
+
+<p>
+Real-time monitoring dashboard inspired by industrial SCADA systems.
+</p>
+
+<ul>
+<li>React</li>
+<li>API Integration</li>
+<li>Data Visualization</li>
+</ul>
+
+<a href="#"><b>💻 View Project</b></a>
+
+</td>
+
+</tr>
+</table>
+
 ## 🏭 Electrical Instrumentation Experience
 
 <p align="center">
