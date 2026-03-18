@@ -10,7 +10,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-moisesahportofolio.netlify.app-0077B6?style=for-the-badge&logo=netlify&logoColor=white)](https://moisesahportofolio.netlify.app/)
 [![Location](https://img.shields.io/badge/Santo%20Domingo-Dominican%20Republic-blue?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
-![Profile Views](https://komarev.com/ghpvc/?username=TU_USUARIO&color=0077B6&style=for-the-badge)
+
 
 </div>
 
