@@ -83,6 +83,28 @@ Real-time monitoring interface for industrial process visualization, inspired by
 </tr>
 </table>
 
+## 🏭 SCADA & Industrial Projects
+
+### Industrial SCADA Network (Cisco Packet Tracer)
+
+Project focused on designing a **secure and redundant SCADA network architecture**.
+
+Technologies:
+
+- SCADA Architecture
+- Industrial Networking
+- VLAN Segmentation
+- Redundant Network Design
+- Industrial Protocols
+
+Features:
+
+- Control Center Network
+- Industrial Plant Network
+- Redundant Communication
+- Secure Industrial Segmentation
+
+
 ---
 
 ## 📈 GitHub Stats
@@ -236,25 +258,5 @@ Other:
 - Implementation of internal management systems
 - Support for enterprise software environments
 
-## 🏭 SCADA & Industrial Projects
-
-### Industrial SCADA Network (Cisco Packet Tracer)
-
-Project focused on designing a **secure and redundant SCADA network architecture**.
-
-Technologies:
-
-- SCADA Architecture
-- Industrial Networking
-- VLAN Segmentation
-- Redundant Network Design
-- Industrial Protocols
-
-Features:
-
-- Control Center Network
-- Industrial Plant Network
-- Redundant Communication
-- Secure Industrial Segmentation
 
 
