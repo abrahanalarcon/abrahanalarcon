@@ -258,6 +258,96 @@ Other:
         <p>Explore the creation of an interactive and efficient Pokedex, leveraging the power of .NET MAUI to deliver a unified experience across all platforms. More than 1,000 Pokémon are available upon initial release.</p>
       </div>
     </td>
+## 📱 MAUI Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎵 Clon Spotify
+App móvil que replica la interfaz de Spotify usando .NET MAUI.
+
+[![Ver código](https://img.shields.io/badge/Ver%20código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abrahanalarcon/Clon-Spotify)
+
+</td>
+<td width="50%" valign="top">
+
+### 📰 NewsApp
+Aplicación de noticias en tiempo real con .NET MAUI.
+
+[![Ver código](https://img.shields.io/badge/Ver%20código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abrahanalarcon/NewsApp)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 👤 Profile User
+Pantalla de perfil de usuario con diseño moderno.
+
+[![Ver código](https://img.shields.io/badge/Ver%20código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abrahanalarcon/ProfileUser)
+
+</td>
+<td width="50%" valign="top">
+
+### ✅ To Do App
+Gestor de tareas con persistencia de datos.
+
+[![Ver código](https://img.shields.io/badge/Ver%20código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abrahanalarcon/ToDoApp)
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚛️ React + APIs
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🎬 Movies</h3>
+<div align="center">
+  <a href="https://streamingmoviesreact.netlify.app/" target="_blank">
+    <img src="img/18.png" width="400" alt="Movies">
+  </a>
+  <p>
+    <a href="https://github.com/abrahanalarcon/movies-react" target="_blank">
+      <img src="https://img.shields.io/badge/Source-80ffaa?style=for-the-badge&logo=github&logoColor=black" alt="Source">
+    </a>
+    <a href="https://streamingmoviesreact.netlify.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Demo-E9F6FF?style=for-the-badge&logo=netlify&logoColor=black" alt="Demo">
+    </a>
+    <a href="https://github.com/abrahanalarcon/movies-react/blob/main/README.md" target="_blank">
+      <img src="https://img.shields.io/badge/README-6c757d?style=for-the-badge" alt="README">
+    </a>
+  </p>
+  <p>One of my favorite projects 🎬</p>
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">💰 Cryptocurrencies</h3>
+<div align="center">
+  <a href="https://excryptocurrenciesreact.netlify.app/" target="_blank">
+    <img src="img/19.png" width="400" alt="Cryptocurrencies">
+  </a>
+  <p>
+    <a href="https://github.com/abrahanalarcon/criptos-react" target="_blank">
+      <img src="https://img.shields.io/badge/Source-80ffaa?style=for-the-badge&logo=github&logoColor=black" alt="Source">
+    </a>
+    <a href="https://excryptocurrenciesreact.netlify.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Demo-E9F6FF?style=for-the-badge&logo=netlify&logoColor=black" alt="Demo">
+    </a>
+  </p>
+  <p>Built with Styled Components and a custom hook. Uses the <a href="https://min-api.cryptocompare.com/data/top/mktcapfull?limit=20&tsym=USD" target="_blank">CryptoCompare API</a>.</p>
+</div>
+
+</td>
+</tr>
+</table>
 
     
    <td width="50%" valign="top">
