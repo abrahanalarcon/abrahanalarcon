@@ -75,7 +75,7 @@ Design of a **secure and redundant SCADA network** integrating IT and OT environ
 
 **Stack:** Cisco Packet Tracer · VLAN · Redundant Topology · Industrial Protocols
 
-[![Docs](https://img.shields.io/badge/📄%20View%20Documentation-0077B6?style=flat-square)](#)
+[![Docs](https://img.shields.io/badge/📄%20View%20Documentation-0077B6?style=flat-square)](https://drive.google.com/drive/folders/1VXUMt1kgyA9bRzVHP9nyHruoZkFCZvrb?usp=drive_link)
 
 </td>
 <td width="50%" valign="top">
@@ -292,6 +292,51 @@ Other:
   </tr>
 </table>
 
+## React + API's
 
+   <table>
+    <tr>
+    <td width="50%">
+    <h3 align="center">🎬 Movies</h3>
+     <div align="center">
+    <a href="https://streamingmoviesreact.netlify.app/" target="_blank"  style="hover:transform: scale(1.2);"><img src="img/18.png" width="400" alt="Movies" ></a>
+    <p>
+    <a href="https://github.com/abrahanalarcon/movies-react" target="_blank">
+    <img src="https://img.shields.io/badge/Source-80ffaa?style=for-the-badge&logo=github&logoColor=black" alt="Source" title="Source">
+    </a>
+    <a href="https://streamingmoviesreact.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Demo-blue?style=for-the-badge&color=E9F6FF" alt="Deploy">
+     <a href="https://github.com/abrahanalarcon/movies-react/blob/main/README.md" target="_blank">
+      <img src="https://img.shields.io/badge/ReadME-6c757d?style=for-the-badge" alt="ReadME" title="ReadME">
+     </a>
+   </p>
+    <p>One of my favorites Projects </p>
+    </div>
+   
+                                                                                          
+ </td> 
+  
+    
+<td width="50%">
+     <br>
+    <h3 align="center">Cryptocurrencies</h3>
+    <div align="center">                                       
+    <a href="https://github.com/abrahanalarcon/criptos-react" target="_blank"><img src="img/19.png" width="400" alt="Freelancer Page"></a>
+    <br>
+
+ <p>
+    <a href="https://excryptocurrenciesreact.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Source-80ffaa?style=for-the-badge&logo=github&logoColor=black" alt="Source" title="Source"><a/>
+     <a href="https://excryptocurrenciesreact.netlify.app/"" target="_blank">
+    <img src="https://img.shields.io/badge/-Demo-blue?style=for-the-badge&color=E9F6FF" alt="Deploy">
+    </a>
+    </p>
+
+<p>On this project I used Styled Components and created my first hook,get the Api here:
+    <a href="https://min-api.cryptocompare.com/data/top/mktcapfull?limit=20&tsym=USD" target="_blank">Crytocurrency's</a></p>
+    </div>                                                             
+    </table>                                                                                 
+    </div>
+    <br>
 
 
