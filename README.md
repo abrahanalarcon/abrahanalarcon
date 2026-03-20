@@ -251,7 +251,7 @@ Other:
           <a href="https://github.com/abrahanalarcon/Validation-Email" target="_blank">
             <img src="https://img.shields.io/badge/Source-80ffaa?style=for-the-badge&logo=github&logoColor=black" alt="Source" title="Source">
           </a>
-          <a href="https://effulgent-taiyaki-045932.netlify.app/" target="_blank">
+          <a href="#" target="_blank">
             <img src="https://img.shields.io/badge/-Demo-blue?style=for-the-badge&color=E9F6FF" alt="Deploy">
           </a>
         </p>
