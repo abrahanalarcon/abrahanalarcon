@@ -348,5 +348,53 @@ Gestor de tareas con persistencia de datos.
 </td>
 </tr>
 </table>
+ ## Projects with C  in Mechatronics
+    
+    
+ <table>
+    <tr>
+    <td width="50%">
+    <h3 align="center">Pong Game</h3>
+<div align="center">
+    <a href="https://drive.google.com/file/d/1N2rT0_z09XyZsWMHNTz0_fk9kC2ZHI31/view?usp=sharing" target="_blank"><img src="img/Game Boy.jpg" width="400" alt="Suits"></a>
+    <p>
+    <a href="https://drive.google.com/file/d/1N2rT0_z09XyZsWMHNTz0_fk9kC2ZHI31/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Source-80ffaa?style=for-the-badge&logo=github&logoColor=black" alt="Source" title="Source">
+
+  </a>
+    <a href="https://drive.google.com/file/d/1N2rT0_z09XyZsWMHNTz0_fk9kC2ZHI31/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/-Google Drive-blue?style=for-the-badge&color=4285F4&logo=google-drive&logoColor=white">
+    </a>
+    </p>
+    
+ <p>This is one of my favorite projects, <strong>it is a kind of Pong game with two modules,</strong> I used a joystick, a speaker, and an LED matrix. This project was with <a href="https://www.st.com/en/development-tools/stm32cubeide.html" target="_blank">the stm32cubeide IDE</a></p>
+    </div>
+    </div>
+                                                                                          
+  </td>
+    
+  <td width="50%">
+     <br>
+    <h3 align="center">Avoiding Obstacle Robot </h3>
+    <div align="center">                                       
+    <a href="https://drive.google.com/drive/folders/1KsrOZYiIOv19Ww4PmzuIddCSfq8zqjBk?usp=drive_link" target="_blank"><img src="https://i.ytimg.com/vi/1n_KjpMfVT0/maxresdefault.jpg"></a>
+    <br>
+       <p>
+    <a href="https://drive.google.com/drive/folders/1KsrOZYiIOv19Ww4PmzuIddCSfq8zqjBk?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/-Google Drive-blue?style=for-the-badge&color=4285F4&logo=google-drive&logoColor=white">
+
+   </a>
+    </p>
+    
+  <p>This is one of my favorite projects, <strong>it is a kind of Atari game with two modules,</strong> I used a joystick, a speaker, and an LED matrix. This project was with <a href="https://www.st.com/en/development-tools/stm32cubeide.html" target="_blank">the stm32cubeide IDE</a></p>
+    </div>                                                             
+    </table>                                                                                 
+    </div>
+    <br>
+    
+   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+ <body>   
+  
+  <br>
 
     
