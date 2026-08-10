@@ -55,9 +55,7 @@ My goal is to design and implement **reliable SCADA infrastructures that connect
 ![VLAN](https://img.shields.io/badge/VLAN-Segmentation-0077B6?style=for-the-badge)
 ![Industrial Ethernet](https://img.shields.io/badge/Industrial-Ethernet-023E8A?style=for-the-badge)
 
-**Software Development**
 
-<img src="https://skillicons.dev/icons?i=pyhton,sql" />
 
 </div>
 
