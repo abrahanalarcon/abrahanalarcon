@@ -57,7 +57,7 @@ My goal is to design and implement **reliable SCADA infrastructures that connect
 
 **Software Development**
 
-<img src="https://skillicons.dev/icons?i=react,cs,dotnet,nodejs,js,sql" />
+<img src="https://skillicons.dev/icons?i=pyhton,sql" />
 
 </div>
 
