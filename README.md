@@ -229,73 +229,7 @@ Other:
 
 
 
- ## Projects Maui Multipltaform,Andorid,IOS
- 
-<table>
-  <tr>
-    <!-- Columna izquierda con imagen -->
-    <td width="50%" valign="top">
-      <h3 align="center">Pokedex</h3>
-      <div align="center">
-        <a href="..............." target="_blank">
-          <img src="https://i.pinimg.com/736x/b4/97/f0/b497f08be3054067507896cdbba4a77c.jpg" width="400" alt="blog cafe">
-        </a>
-        <p>
-          <a href="https://drive.google.com/file/d/12MRu_WeLNPf8vV4Ykd8g7-ryG1WHYauP/view?usp=sharing" target="_blank">
-            <img src="https://img.shields.io/badge/-Google Drive-blue?style=for-the-badge&color=4285F4&logo=google-drive&logoColor=white">
-          </a>
-          <a href="https://github.com/abrahanalarcon/Validation-Email" target="_blank">
-            <img src="https://img.shields.io/badge/Source-80ffaa?style=for-the-badge&logo=github&logoColor=black" alt="Source" title="Source">
-          </a>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/-Demo-blue?style=for-the-badge&color=E9F6FF" alt="Deploy">
-          </a>
-        </p>
-        <p>Explore the creation of an interactive and efficient Pokedex, leveraging the power of .NET MAUI to deliver a unified experience across all platforms. More than 1,000 Pokémon are available upon initial release.</p>
-      </div>
-    </td>
-## 📱 MAUI Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎵 Clon Spotify
-App móvil que replica la interfaz de Spotify usando .NET MAUI.
-
-[![Ver código](https://img.shields.io/badge/Ver%20código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abrahanalarcon/Clon-Spotify)
-
-</td>
-<td width="50%" valign="top">
-
-### 📰 NewsApp
-Aplicación de noticias en tiempo real con .NET MAUI.
-
-[![Ver código](https://img.shields.io/badge/Ver%20código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abrahanalarcon/NewsApp)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 👤 Profile User
-Pantalla de perfil de usuario con diseño moderno.
-
-[![Ver código](https://img.shields.io/badge/Ver%20código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abrahanalarcon/ProfileUser)
-
-</td>
-<td width="50%" valign="top">
-
-### ✅ To Do App
-Gestor de tareas con persistencia de datos.
-
-[![Ver código](https://img.shields.io/badge/Ver%20código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abrahanalarcon/ToDoApp)
-
-</td>
-</tr>
-</table>
-
----
 
 ## ⚛️ React + APIs
 
