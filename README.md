@@ -222,9 +222,7 @@ Backend:
 ![C#](https://img.shields.io/badge/C%23-%238A3B8F.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-%238A3B8F.svg?style=for-the-badge&logo=.net&logoColor=white)
 
-Other:
 
-![Node](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 
 
 
