@@ -52,6 +52,8 @@ My goal is to design and implement **reliable SCADA infrastructures that connect
 ![Cisco](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![VLAN](https://img.shields.io/badge/VLAN-Segmentation-0077B6?style=for-the-badge)
 ![Industrial Ethernet](https://img.shields.io/badge/Industrial-Ethernet-023E8A?style=for-the-badge)
+![MikroTik](https://img.shields.io/badge/MikroTik-Networking-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
+![Fortinet](https://img.shields.io/badge/Fortinet-Security-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
 
 
 
