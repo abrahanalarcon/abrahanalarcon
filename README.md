@@ -1,16 +1,15 @@
 <div align="center">
 
-# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Moises Alarcon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
- 
+# Hi there, I'm Moises Alarcon 👋
 
+### IT/OT Engineer · Industrial Automation · SCADA & Control Systems
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=IT%2FOT+Engineer;SCADA+%26+Industrial+Control+Systems;Industrial+Automation+Specialist;Mechatronics+Engineer" alt="Typing SVG" />
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-moisesahportofolio.netlify.app-0077B6?style=for-the-badge&logo=netlify&logoColor=white)](https://moisesahportofolio.netlify.app/)
-[![Location](https://img.shields.io/badge/Santo%20Domingo-Dominican%20Republic-blue?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
-
+<p>
+  <a href="https://moisesahportofolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-0077B6?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio">
+  </a>
+  <img src="https://img.shields.io/badge/Location-Santo%20Domingo%2C%20Dominican%20Republic-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location">
+</p>
 
 </div>
 
@@ -18,36 +17,33 @@
 
 ## 👨‍💻 About Me
 
-IT/OT Engineer with a background in **Mechatronics** and over 3 years of hands-on experience in industrial environments. My focus is on designing , implementing and integration **reliable SCADA DCS infrastructures** that bridge industrial processes with modern IT systems.
+I'm an **IT/OT Engineer with a background in Mechatronics Engineering** and more than three years of hands-on experience in industrial environments.
 
-- 🌎 Based in **Santo Domingo, Dominican Republic**
-- 🏭⚡ Specialized in **SCADA Systems, Industrial Networks and Automation**
-- 🔒 Experience with **Cybersecurity for OT environments**
-- 🔧 Integrating **TOOLS development with industrial systems like SQL SERVER & POWER BI**
-- 🧠 Passionate about **ICS, Smart Manufacturing and OT/IT convergence**
-- 🏭 **IT/OT Engineer focused on Industrial Automation**
-- 🤖 Background in **Mechatronics Engineering**
+My work focuses on connecting **industrial operations, automation systems, and modern IT technologies** through reliable, scalable, and secure solutions.
 
+- 🏭 Specialized in **SCADA, ICS, industrial automation, and control systems**
+- 🌐 Experienced with **industrial networks, VLAN segmentation, and redundant architectures**
+- 🔐 Interested in **OT cybersecurity and secure IT/OT convergence**
+- 💻 Develop applications using **C#, .NET, SQL Server, and React**
+- 📊 Explore industrial data integration with **SQL Server and Power BI**
+- 🤖 Passionate about **smart manufacturing, industrial digitalization, and embedded systems**
 
-My goal is to design and implement **reliable SCADA infrastructures that connect industrial processes with modern IT systems.**
-
+> My goal is to design and implement reliable industrial infrastructures that connect operational technology with modern information systems.
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Technical Skills
 
-<div align="center">
-
-**Industrial & SCADA**
+### 🏭 Industrial Automation & SCADA
 
 ![SCADA](https://img.shields.io/badge/SCADA-Systems-00B4D8?style=for-the-badge)
 ![ICS](https://img.shields.io/badge/ICS-Control%20Systems-0077B6?style=for-the-badge)
-![OPC-UA](https://img.shields.io/badge/OPC--UA-Protocol-023E8A?style=for-the-badge)
-![Modbus](https://img.shields.io/badge/Modbus-Protocol-0096C7?style=for-the-badge)
 ![HMI](https://img.shields.io/badge/HMI-Development-48CAE4?style=for-the-badge)
 ![PLC](https://img.shields.io/badge/PLC-Communication-90E0EF?style=for-the-badge)
+![OPC UA](https://img.shields.io/badge/OPC--UA-Protocol-023E8A?style=for-the-badge)
+![Modbus](https://img.shields.io/badge/Modbus-Protocol-0096C7?style=for-the-badge)
 
-**Networking**
+### 🌐 Industrial Networking & Security
 
 ![Cisco](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![VLAN](https://img.shields.io/badge/VLAN-Segmentation-0077B6?style=for-the-badge)
@@ -55,94 +51,140 @@ My goal is to design and implement **reliable SCADA infrastructures that connect
 ![MikroTik](https://img.shields.io/badge/MikroTik-Networking-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
 ![Fortinet](https://img.shields.io/badge/Fortinet-Security-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
 
+### 💻 Software Development & Data
 
-
-</div>
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
-## 🏭 Featured Projects
+## 🚀 Featured Projects
 
 <table>
-<tr>
-<td width="50%" valign="top">
+  <tr>
+    <td width="50%" valign="top">
 
 ### 🔌 SCADA Network Architecture
 
-Design of a **secure and redundant SCADA network** integrating IT and OT environments with proper segmentation.
+Design of a secure and redundant SCADA network integrating IT and OT environments through network segmentation and industrial communication concepts.
 
-**Stack:** Cisco Packet Tracer · VLAN · Redundant Topology · Industrial Protocols
+**Technologies**
 
-[![Docs](https://img.shields.io/badge/📄%20View%20Documentation-0077B6?style=flat-square)](https://drive.google.com/drive/folders/1VXUMt1kgyA9bRzVHP9nyHruoZkFCZvrb?usp=drive_link)
+- Cisco Packet Tracer
+- VLAN segmentation
+- Redundant network topology
+- Industrial protocols
 
-</td>
-<td width="50%" valign="top">
+[📄 View documentation](https://drive.google.com/drive/folders/1VXUMt1kgyA9bRzVHP9nyHruoZkFCZvrb?usp=drive_link)
+
+    </td>
+    <td width="50%" valign="top">
 
 ### 📊 Industrial Monitoring Dashboard
 
-Real-time monitoring interface for industrial process visualization, inspired by SCADA systems.
+A monitoring interface inspired by SCADA systems, focused on industrial process visualization and real-time data presentation.
 
-**Stack:** React · REST API · Data Visualization
+**Technologies**
 
-[![GitHub](https://img.shields.io/badge/💻%20View%20on%20GitHub-181717?style=flat-square&logo=github)](#)
+- React
+- REST APIs
+- Data visualization
 
-</td>
-</tr>
+> Add the GitHub repository link here.
+
+    </td>
+  </tr>
 </table>
 
-## 🏭 SCADA & Industrial Projects
+---
 
-### Industrial SCADA Network (Cisco Packet Tracer)
+## 🏭 Industrial & SCADA Projects
 
-Project focused on designing a **secure and redundant SCADA network architecture**.
+### Industrial SCADA Network — Cisco Packet Tracer
 
-Technologies:
+A project focused on designing a **secure and redundant SCADA network architecture**.
 
-- SCADA Architecture
-- Industrial Networking
-- VLAN Segmentation
-- Redundant Network Design
-- Industrial Protocols
+**Main components**
 
-Features:
-
-- Control Center Network
-- Industrial Plant Network
-- Redundant Communication
-- Secure Industrial Segmentation
-
+- Control center network
+- Industrial plant network
+- VLAN-based segmentation
+- Redundant communication paths
+- Industrial networking concepts
+- Separation of IT and OT environments
 
 ---
 
-## 📈 GitHub Stats
+## 💻 Software & Embedded Projects
 
-<div align="center">
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=abrahanalarcon&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats"/>
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+### 🎬 Movies React App
 
-</div>
+A movie application built with React.
+
+[🌐 Live demo](https://streamingmoviesreact.netlify.app/) · [💻 Source code](https://github.com/abrahanalarcon/movies-react)
+
+<img src="img/18.png" width="100%" alt="Movies React application">
+
+    </td>
+    <td width="50%" valign="top">
+
+### 💰 Cryptocurrencies React App
+
+A cryptocurrency dashboard built with React, Styled Components, and the CryptoCompare API.
+
+[🌐 Live demo](https://excryptocurrenciesreact.netlify.app/) · [💻 Source code](https://github.com/abrahanalarcon/criptos-react)
+
+<img src="img/19.png" width="100%" alt="Cryptocurrencies React application">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🎮 Pong Game
+
+An embedded-systems project developed with STM32CubeIDE, featuring a joystick, speaker, and LED matrix.
+
+[📁 View project files](https://drive.google.com/file/d/1N2rT0_z09XyZsWMHNTz0_fk9kC2ZHI31/view?usp=sharing)
+
+    </td>
+    <td width="50%" valign="top">
+
+### 🤖 Obstacle-Avoiding Robot
+
+A mechatronics project focused on autonomous movement and obstacle avoidance.
+
+[📁 View project files](https://drive.google.com/drive/folders/1KsrOZYiIOv19Ww4PmzuIddCSfq8zqjBk?usp=drive_link)
+
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 💼 Experience
+## 💼 Professional Experience
 
 <details>
-<summary><b>🏭 IT / OT Engineer — Industrial Systems & Technology</b></summary>
-<br/>
+  <summary><b>🏭 IT/OT Engineer — Industrial Systems & Technology</b></summary>
 
 - Management and support of industrial IT infrastructure
-- Integration between IT systems and operational technology (OT)
-- Development of internal applications using **C#, .NET and SQL**
+- Integration between IT systems and operational technology
+- Development of internal applications using C#, .NET, and SQL
 - Support and troubleshooting for industrial automation and SCADA systems
 
 </details>
 
 <details>
-<summary><b>💻 Software Developer — Enterprise Systems</b></summary>
-<br/>
+  <summary><b>💻 Software Developer — Enterprise Systems</b></summary>
 
-- Development of applications using **C#, .NET and SQL Server**
+- Development of applications using C#, .NET, and SQL Server
 - Implementation of internal management systems
 - Support for enterprise software environments
 
@@ -150,179 +192,37 @@ Features:
 
 ---
 
-## 📸 Industrial Work
+## 📸 Industrial Experience
 
-<div align="center">
- | Control Systems |
-|:--------------------------:|:---------------:|
-|  | <img src="img/21.jfif" width="280" style="border-radius:8px"> |
+<p align="center">
+  <img src="img/21.jfif" width="500" alt="Industrial control systems">
+</p>
 
-*3 years of hands-on experience in Industrial Instrumentation, Control Systems and Power Generation.*
-
-</div>
-
----
-
-<div align="center">
-
-**Let's connect and build something industrial 🏭**
-
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-0077B6?style=for-the-badge)](https://moisesahportofolio.netlify.app/)
-
-</div>
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-## ⚙️ SCADA & Industrial Automation
-
-- SCADA Systems
-- Industrial Control Systems (ICS)
-- HMI Development
-- PLC Communication
-- Industrial Protocols (Modbus, OPC-UA)
-- Industrial Networking
-- Cybersecurity for OT
+<p align="center">
+  <i>Hands-on experience in industrial instrumentation, control systems, and power generation.</i>
+</p>
 
 ---
 
-## 🌐 Industrial Networking
+## 📊 GitHub Statistics
 
-- VLAN Segmentation
-- Redundant Network Topologies
-- Cisco Networking
-- Industrial Ethernet
-- SCADA Network Architecture
-
-Tools:
-
-![Cisco](https://img.shields.io/badge/Cisco-Networking-blue?style=for-the-badge)
-![SCADA](https://img.shields.io/badge/SCADA-System-green?style=for-the-badge)
-![Industrial](https://img.shields.io/badge/Industrial-Automation-orange?style=for-the-badge)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abrahanalarcon&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="GitHub statistics">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=abrahanalarcon&theme=tokyonight&hide_border=true" alt="GitHub streak">
+</p>
 
 ---
 
-## 💻 Software Development
+## 🤝 Let's Connect
 
-Frontend:
-
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-Backend:
-
-![C#](https://img.shields.io/badge/C%23-%238A3B8F.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-%238A3B8F.svg?style=for-the-badge&logo=.net&logoColor=white)
-
-
-
-
-
-
-
-
-## ⚛️ React + APIs
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">🎬 Movies</h3>
-<div align="center">
-  <a href="https://streamingmoviesreact.netlify.app/" target="_blank">
-    <img src="img/18.png" width="400" alt="Movies">
+<p align="center">
+  <a href="https://moisesahportofolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Visit%20my%20portfolio-0077B6?style=for-the-badge&logo=netlify&logoColor=white" alt="Visit portfolio">
   </a>
-  <p>
-    <a href="https://github.com/abrahanalarcon/movies-react" target="_blank">
-      <img src="https://img.shields.io/badge/Source-80ffaa?style=for-the-badge&logo=github&logoColor=black" alt="Source">
-    </a>
-    <a href="https://streamingmoviesreact.netlify.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Demo-E9F6FF?style=for-the-badge&logo=netlify&logoColor=black" alt="Demo">
-    </a>
-    <a href="https://github.com/abrahanalarcon/movies-react/blob/main/README.md" target="_blank">
-      <img src="https://img.shields.io/badge/README-6c757d?style=for-the-badge" alt="README">
-    </a>
-  </p>
-  <p>One of my favorite projects 🎬</p>
-</div>
+</p>
 
-</td>
-<td width="50%" valign="top">
+<p align="center">
+  <b>Let's build reliable, secure, and innovative industrial solutions. 🏭⚡</b>
+</p>
 
-<h3 align="center">💰 Cryptocurrencies</h3>
-<div align="center">
-  <a href="https://excryptocurrenciesreact.netlify.app/" target="_blank">
-    <img src="img/19.png" width="400" alt="Cryptocurrencies">
-  </a>
-  <p>
-    <a href="https://github.com/abrahanalarcon/criptos-react" target="_blank">
-      <img src="https://img.shields.io/badge/Source-80ffaa?style=for-the-badge&logo=github&logoColor=black" alt="Source">
-    </a>
-    <a href="https://excryptocurrenciesreact.netlify.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Demo-E9F6FF?style=for-the-badge&logo=netlify&logoColor=black" alt="Demo">
-    </a>
-  </p>
-  <p>Built with Styled Components and a custom hook. Uses the <a href="https://min-api.cryptocompare.com/data/top/mktcapfull?limit=20&tsym=USD" target="_blank">CryptoCompare API</a>.</p>
-</div>
-
-</td>
-</tr>
-</table>
- ## Projects with C  in Mechatronics
-    
-    
- <table>
-    <tr>
-    <td width="50%">
-    <h3 align="center">Pong Game</h3>
-<div align="center">
-    <a href="https://drive.google.com/file/d/1N2rT0_z09XyZsWMHNTz0_fk9kC2ZHI31/view?usp=sharing" target="_blank"><img src="img/Game Boy.jpg" width="400" alt="Suits"></a>
-    <p>
-    <a href="https://drive.google.com/file/d/1N2rT0_z09XyZsWMHNTz0_fk9kC2ZHI31/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Source-80ffaa?style=for-the-badge&logo=github&logoColor=black" alt="Source" title="Source">
-
-  </a>
-    <a href="https://drive.google.com/file/d/1N2rT0_z09XyZsWMHNTz0_fk9kC2ZHI31/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/-Google Drive-blue?style=for-the-badge&color=4285F4&logo=google-drive&logoColor=white">
-    </a>
-    </p>
-    
- <p>This is one of my favorite projects, <strong>it is a kind of Pong game with two modules,</strong> I used a joystick, a speaker, and an LED matrix. This project was with <a href="https://www.st.com/en/development-tools/stm32cubeide.html" target="_blank">the stm32cubeide IDE</a></p>
-    </div>
-    </div>
-                                                                                          
-  </td>
-    
-  <td width="50%">
-     <br>
-    <h3 align="center">Avoiding Obstacle Robot </h3>
-    <div align="center">                                       
-    <a href="https://drive.google.com/drive/folders/1KsrOZYiIOv19Ww4PmzuIddCSfq8zqjBk?usp=drive_link" target="_blank"><img src="https://i.ytimg.com/vi/1n_KjpMfVT0/maxresdefault.jpg"></a>
-    <br>
-       <p>
-    <a href="https://drive.google.com/drive/folders/1KsrOZYiIOv19Ww4PmzuIddCSfq8zqjBk?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/-Google Drive-blue?style=for-the-badge&color=4285F4&logo=google-drive&logoColor=white">
-
-   </a>
-    </p>
-    
-  <p>This is one of my favorite projects, <strong>it is a kind of Atari game with two modules,</strong> I used a joystick, a speaker, and an LED matrix. This project was with <a href="https://www.st.com/en/development-tools/stm32cubeide.html" target="_blank">the stm32cubeide IDE</a></p>
-    </div>                                                             
-    </table>                                                                                 
-    </div>
-    <br>
-    
-   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
- <body>   
-  
-  <br>
 
