@@ -153,10 +153,9 @@ Features:
 ## 📸 Industrial Work
 
 <div align="center">
-
-| Electrical Instrumentation | Control Systems |
+ | Control Systems |
 |:--------------------------:|:---------------:|
-| <img src="img/24.jpg" width="280" style="border-radius:8px"> | <img src="img/21.jfif" width="280" style="border-radius:8px"> |
+|  | <img src="img/21.jfif" width="280" style="border-radius:8px"> |
 
 *3 years of hands-on experience in Industrial Instrumentation, Control Systems and Power Generation.*
 
