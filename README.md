@@ -2,7 +2,7 @@
 
 # Moises Alarcon
 
-**IT/OT Engineer · Industrial Automation · SCADA & Control Systems**
+**IT/OT Engineer · Programmer·Industrial Automation · SCADA & Control Systems**
 
 <p>
   <a href="https://moisesahportofolio.netlify.app/">
