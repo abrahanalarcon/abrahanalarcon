@@ -1,6 +1,6 @@
 <div align="center">
 
-# Moises Alarcon
+# Moises Alarcon 👋
 
 **IT/OT Engineer · Programmer · Industrial Automation · SCADA & Control Systems**
 
