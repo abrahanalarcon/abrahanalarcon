@@ -9,7 +9,7 @@
 </p>
 
 <p>
-  <a href="https://moisesahportofolio.netlify.app/">
+  <a href="https://moisesportafolioautomation.netlify.app/">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-0077B6?style=for-the-badge" alt="Portfolio">
   </a>
   <a href="https://github.com/abrahanalarcon">
@@ -596,7 +596,7 @@ I am particularly interested in environments such as:
 
 <br>
 
-<a href="https://moisesahportofolio.netlify.app/">
+<a href="https://moisesportafolioautomation.netlify.app/">
 <img src="https://img.shields.io/badge/🚀%20moisesahportofolio.netlify.app-0077B6?style=for-the-badge" />
 </a>
 
