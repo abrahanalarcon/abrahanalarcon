@@ -15,7 +15,7 @@
   <a href="https://github.com/abrahanalarcon">
     <img src="https://img.shields.io/badge/💻%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://www.linkedin.com/in/TU-USUARIO/">
+  <a href="https://www.linkedin.com/in/moisesalarcon/">
     <img src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
@@ -580,7 +580,7 @@ I am particularly interested in environments such as:
 <img src="https://img.shields.io/badge/💻%20GITHUB-181717?style=for-the-badge&logo=github" />
 </a>
 
-<a href="https://www.linkedin.com/in/TU-USUARIO/">
+<a href="https://www.linkedin.com/in/moisesalarcon//">
 <img src="https://img.shields.io/badge/💼%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
