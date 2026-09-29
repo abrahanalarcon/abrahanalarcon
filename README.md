@@ -5,7 +5,7 @@
 ### **IT/OT Engineer · Industrial Automation · SCADA · Industrial Networks · Software Development**
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0077B6&center=true&vCenter=true&width=650&lines=IT%2FOT+Engineer;Industrial+Automation+%26+SCADA;Industrial+Networking+%26+OT+Security;C%23+%7C+.NET+%7C+SQL+%7C+React" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0077B6&center=true&vCenter=true&width=650&lines=IT%2FOT+Engineer;Industrial+Automation+%26+SCADA;Industrial+Networking+%26+OT+Security;C%23+%7C+.NET+%7C+SQL+%7C+React+%7C+Angular" alt="Typing SVG">
 </p>
 
 <p>
